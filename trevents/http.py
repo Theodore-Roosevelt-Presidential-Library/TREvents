@@ -39,8 +39,8 @@ def _looks_blocked(resp: requests.Response) -> bool:
     return any(m in head for m in BLOCK_MARKERS)
 
 
-def get(url: str, *, params=None, headers=None, timeout=45, retries=2, firecrawl=False) -> requests.Response:
-    """GET a URL. If it is blocked and `firecrawl` is allowed, retry through Firecrawl."""
+def get(url: str, *, params=None, headers=None, timeout=45, retries=2, firecrawl=True) -> requests.Response:
+    """GET a URL. If a bot wall blocks it and FIRECRAWL_API_KEY is set, retry through Firecrawl."""
     last_err = None
     for attempt in range(retries + 1):
         _throttle(url)

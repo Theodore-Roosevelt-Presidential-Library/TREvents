@@ -33,7 +33,7 @@ Roosevelt organizations are taken in full; general calendars are scanned for The
 | `loc` | Library of Congress | loc.gov JSON API (8 months ahead) | keyword |
 | `nara` | National Archives | calendar RSS + upcoming list → event pages (cached) | keyword |
 | `harvard` | Harvard Library | LibCal JSON | keyword |
-| `whha` | White House Historical Association | upcoming list → event pages (cached) | keyword |
+| `whha` | White House Historical Association | upcoming list → event pages (cached); blocks GitHub runners, so needs `FIRECRAWL_API_KEY` | keyword |
 | `amnh` | American Museum of Natural History | calendar page via Firecrawl (`FIRECRAWL_API_KEY`; Cloudflare blocks direct reads) | keyword |
 
 Keyword matching (`trevents/model.py → relevance`) treats terms like *Theodore Roosevelt, Edith Roosevelt, Sagamore Hill, Rough Riders, Bull Moose, Elkhorn Ranch, Roosevelt Island* as matches, plain *Roosevelt* as a "possible" match (sent to `/api/v1/review.json`), and drops anything that's about FDR or Eleanor Roosevelt.
@@ -63,7 +63,7 @@ python -m trevents.build --only trpl,joe
 
 GitHub Actions (`.github/workflows/update.yml`) runs daily at ~5:17 a.m. Central and on demand (Actions → Update events → Run workflow, optionally with a list of sources). It commits `docs/` and `data/`.
 
-**Repo secrets:** `NPS_API_KEY` (free at https://www.nps.gov/subjects/developer/get-started.htm — without it the NPS source uses the rate-limited DEMO_KEY), `FIRECRAWL_API_KEY` (needed for AMNH; also used as a fallback if another site starts blocking the runner).
+**Repo secrets:** `NPS_API_KEY` (free at https://www.nps.gov/subjects/developer/get-started.htm — without it the NPS source uses the rate-limited DEMO_KEY), `FIRECRAWL_API_KEY` (needed for AMNH and the White House Historical Association, which block GitHub's servers; any other page that hits a bot wall is retried through it automatically).
 
 **Pages:** Settings → Pages → Deploy from branch `main`, folder `/docs`. Custom domain `trevents.labs.trlibrary.com` (`docs/CNAME`), with a DNS CNAME from `trevents.labs` to `theodore-roosevelt-presidential-library.github.io`.
 
