@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//TREvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TR Events — TR Association
+X-WR-CALDESC:Events from Theodore Roosevelt Association.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/tra.ics
+BEGIN:VEVENT
+UID:1f2d12fe3d2a61c7@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20270604T120000Z
+DTEND:20270614T210000Z
+SUMMARY:Theodore Roosevelt Association Strenuous Life Adventure Africa Expe
+ dition
+DESCRIPTION:In person · Paid\n\nAfrica Expedition | June 4–14\, 2027 Ret
+ race one of the greatest adventures in American history. From June 4–14\
+ , 2027 \, join the Theodore Roosevelt Association on an extraordinary jour
+ ney through Kenya\, following the…\n\nListed by Theodore Roosevelt Assoc
+ iation\n\nhttps://www.theodoreroosevelt.org/content.aspx?page_id=4002&club
+ _id=991271&item_id=3025744
+URL:https://www.theodoreroosevelt.org/content.aspx?page_id=4002&club_id=991
+ 271&item_id=3025744
+CATEGORIES:Theodore Roosevelt Association,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

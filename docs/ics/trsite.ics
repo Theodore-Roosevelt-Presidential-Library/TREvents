@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//TREvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TR Events — TR Inaugural Site
+X-WR-CALDESC:Events from Theodore Roosevelt Inaugural Site.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/trsite.ics
+BEGIN:VEVENT
+UID:64ba7152fa9d98d8@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20260924T140000Z
+DTEND:20261121T220000Z
+SUMMARY:Seeking Vendor Applications
+DESCRIPTION:In person\n\nThe TR Site is proud to announce its inaugural “
+ Sleigh Shop at the Carriage House” — sponsored by Wegmans. This two-da
+ y artisan market will take place on Small Business Saturday (Sat\, Nov 28)
+  and continue through…\n\nListed by Theodore Roosevelt Inaugural Site\n\
+ nhttps://www.trsite.org/events/seeking-vendor-applications
+LOCATION:Theodore Roosevelt Inaugural Site\, 641 Delaware Ave\, Buffalo\, N
+ Y
+URL:https://www.trsite.org/events/seeking-vendor-applications
+CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:deaf69bdf8503c92@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20261001T140000Z
+DTEND:20261031T210000Z
+SUMMARY:October State-of-the-Month
+DESCRIPTION:In person\n\nEach month\, we (randomly) choose one state\, and 
+ in-person visitors from that state will receive a special 10% discount on 
+ all bookstore purchases. October’s State-of-the-Month is . . . VIRGINIA!
+ \n\nListed by Theodore Roosevelt Inaugural Site\n\nhttps://www.trsite.org/
+ events/october-state-of-the-month
+LOCATION:Theodore Roosevelt Inaugural Site\, 641 Delaware Ave\, Buffalo\, N
+ Y
+URL:https://www.trsite.org/events/october-state-of-the-month
+CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b593655a04f7a34e@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20261024T130000Z
+DTEND:20261101T220000Z
+SUMMARY:Early Voting
+DESCRIPTION:In person · Must be a registered voter in Erie Co\, NY\n\nThe 
+ TR Site is proud to partner with the Erie County Board of Elections to ser
+ ve as an Early Voting Site for the 2026 General Election. Any registered E
+ rie County (NY) voter — regardless of where they live — can vote…\n\
+ nListed by Theodore Roosevelt Inaugural Site\n\nhttps://www.trsite.org/eve
+ nts/early-voting
+LOCATION:Theodore Roosevelt Inaugural Site\, 641 Delaware Ave\, Buffalo\, N
+ Y
+URL:https://www.trsite.org/events/early-voting
+CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

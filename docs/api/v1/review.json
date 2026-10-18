@@ -1,0 +1,9 @@
+{
+ "generated": "2026-10-18T14:43:46+00:00",
+ "site": "https://trevents.labs.trlibrary.com",
+ "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
+ "note": "Keyword matches that may not be about Theodore Roosevelt, and dates read from prose. Exclude or edit in config/overrides.yaml.",
+ "count": 0,
+ "events": []
+}

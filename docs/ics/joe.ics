@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//TREvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TR Events — Joe Wiegand
+X-WR-CALDESC:Events from The Teddy Roosevelt Show (Joe Wiegand).
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/joe.ics
+BEGIN:VEVENT
+UID:2452660f25581db2@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+SUMMARY:“Ding” Darling 150th Birthday Celebration
+DESCRIPTION:In person · See event page\n\nJoe Wiegand as Theodore Roosevel
+ t.\n\nListed by The Teddy Roosevelt Show (Joe Wiegand)\n\nhttps://dingdarl
+ ingsociety.org/art-in-the-wild
+LOCATION:Art in the Wild\, Sanibel\, FL
+URL:https://dingdarlingsociety.org/art-in-the-wild
+CATEGORIES:The Teddy Roosevelt Show (Joe Wiegand),In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77747986be7ec9c5@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Sewanee Homecoming
+DESCRIPTION:In person · See event page\n\nJoe Wiegand as Theodore Roosevel
+ t.\n\nListed by The Teddy Roosevelt Show (Joe Wiegand)\n\nhttps://teddyroo
+ seveltshow.com/tour-schedule.html
+LOCATION:University of the South\, Sewanee\, TN
+URL:https://teddyrooseveltshow.com/tour-schedule.html
+CATEGORIES:The Teddy Roosevelt Show (Joe Wiegand),In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:97ac542f173406c4@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20261108T210000Z
+DTEND:20261108T220000Z
+SUMMARY:Fundraiser for Sleep in Heavenly Peace
+DESCRIPTION:In person · See event page\n\nJoe Wiegand as Theodore Roosevel
+ t.\n\nListed by The Teddy Roosevelt Show (Joe Wiegand)\n\nhttps://www.thep
+ rincesstheatretn.com/
+LOCATION:Princess Theater\, South Pittsburg\, TN
+URL:https://www.theprincesstheatretn.com/
+CATEGORIES:The Teddy Roosevelt Show (Joe Wiegand),In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0379ba6c556eef81@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261119
+SUMMARY:NTA Travel Exchange
+DESCRIPTION:In person · See event page\n\nJoe Wiegand as Theodore Roosevel
+ t.\n\nListed by The Teddy Roosevelt Show (Joe Wiegand)\n\nhttps://ntatrave
+ lexchange.com/
+LOCATION:Tulsa\, OK
+URL:https://ntatravelexchange.com/
+CATEGORIES:The Teddy Roosevelt Show (Joe Wiegand),In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1b6ca4fc246422@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20261212T020000Z
+DTEND:20261212T030000Z
+SUMMARY:The Teddy Roosevelt Show
+DESCRIPTION:In person · See event page\n\nJoe Wiegand as Theodore Roosevel
+ t.\n\nListed by The Teddy Roosevelt Show (Joe Wiegand)\n\nhttps://tickets.
+ pebblecreekhoa.org/performancelisting.asp?venuename=Renaissance+Theater&ve
+ nue=5
+LOCATION:Renaissance Theater\, Tuscany Falls\, AZ
+URL:https://tickets.pebblecreekhoa.org/performancelisting.asp?venuename=Ren
+ aissance+Theater&venue=5
+CATEGORIES:The Teddy Roosevelt Show (Joe Wiegand),In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

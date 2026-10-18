@@ -1,0 +1,62 @@
+{
+ "generated": "2026-10-18T14:43:46+00:00",
+ "site": "https://trevents.labs.trlibrary.com",
+ "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
+ "month": "2027-06",
+ "count": 1,
+ "events": [
+  {
+   "source": "tra",
+   "source_event_id": "3025744",
+   "title": "Theodore Roosevelt Association Strenuous Life Adventure Africa Expedition",
+   "start": "2027-06-04T08:00:00-04:00",
+   "end": "2027-06-14T17:00:00-04:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.theodoreroosevelt.org/content.aspx?page_id=4002&club_id=991271&item_id=3025744",
+   "description": "Africa Expedition | June 4–14, 2027 Retrace one of the greatest adventures in American history. From June 4–14, 2027 , join the Theodore Roosevelt Association on an extraordinary journey through Kenya, following the route of President Theodore Roosevelt's legendary 1909–1910 Smithsonian–Roosevelt African Expedition. Guided by Don Young , CEO of Newland, Tarlton & Co. —the same safari company that outfitted Theodore Roosevelt's original expedition—this exclusive experience blends history, wildlife, luxury, and adventure into the u ltimate \"Strenuous Life\" experience.",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 1500.0,
+   "price_max": 16985.0,
+   "registration_required": true,
+   "registration_url": "https://www.theodoreroosevelt.org/content.aspx?page_id=4002&club_id=991271&item_id=3025744",
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Theodore Roosevelt Association",
+   "kind": "event",
+   "categories": [
+    "Strenuous Life Adventure Trip"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "26b3f0695512",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "capacity": "20 Total Slots"
+   },
+   "id": "1f2d12fe3d2a61c7",
+   "summary": "Africa Expedition | June 4–14, 2027 Retrace one of the greatest adventures in American history. From June 4–14, 2027 , join the Theodore Roosevelt Association on an extraordinary journey through Kenya, following the…",
+   "source_name": "Theodore Roosevelt Association",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "National"
+  }
+ ]
+}

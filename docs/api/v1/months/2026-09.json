@@ -1,0 +1,60 @@
+{
+ "generated": "2026-10-18T14:43:46+00:00",
+ "site": "https://trevents.labs.trlibrary.com",
+ "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
+ "month": "2026-09",
+ "count": 1,
+ "events": [
+  {
+   "source": "trsite",
+   "source_event_id": "seeking-vendor-applications",
+   "title": "Seeking Vendor Applications",
+   "start": "2026-09-24T10:00:00-04:00",
+   "end": "2026-11-21T17:00:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.trsite.org/events/seeking-vendor-applications",
+   "description": "The TR Site is proud to announce its inaugural “Sleigh Shop at the Carriage House” — sponsored by Wegmans.\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. It will be open from 10:00am to 5:00pm each day.\n\nArtisans/vendors who are interested in participating are invited to fill out an application.\n\nNote that applications must be submitted no later than November 5th to be included in promotional marketing. We are unable to guarantee that artisans/vendors who submit applications after that date will be acknowledged in marketing materials.\n\nPlease return application & payment to:\n\nTR Inaugural Site\n\nAttn: Genna Munoz-Mages\n\n641 Delaware Ave\n\nBuffalo, NY 14202",
+   "image": "https://www.trsite.org/app/uploads/2026/09/C@TCH26_SleighShop.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Theodore Roosevelt Inaugural Site",
+    "address": "641 Delaware Ave",
+    "city": "Buffalo",
+    "region": "NY",
+    "postal_code": "14202",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Theodore Roosevelt Inaugural Site",
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "f569cb4e3eaf",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "date_text": "September 24, 10:00 am - November 21, 5:00 pm"
+   },
+   "id": "64ba7152fa9d98d8",
+   "summary": "The TR Site is proud to announce its inaugural “Sleigh Shop at the Carriage House” — sponsored by Wegmans. This two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through…",
+   "source_name": "Theodore Roosevelt Inaugural Site",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Buffalo, NY"
+  }
+ ]
+}

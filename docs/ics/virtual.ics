@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//TREvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TR Events — online
+X-WR-CALDESC:Virtual and hybrid Theodore Roosevelt events.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/virtual.ics
+BEGIN:VEVENT
+UID:6534120cd5a496b0@trevents.labs.trlibrary.com
+DTSTAMP:20261018T144346Z
+DTSTART:20261130T234500Z
+DTEND:20261201T011500Z
+SUMMARY:The Panama Canal: Power\, Politics\, and Ambition
+DESCRIPTION:Virtual · Paid\n\nHistorian Ralph Nurnberger argues why the Pa
+ nama Canal can be seen as either a landmark achievement of American diplom
+ acy or a symbol of U.S. arrogance and corruption. Closely tied to Theodore
+  Roosevelt’s vision of…\n\nListed by Smithsonian Institution\n\nhttps:
+ //www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206829802
+LOCATION:This online program is presented on Zoom.
+URL:https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D20682980
+ 2
+CATEGORIES:Smithsonian Institution,Virtual,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

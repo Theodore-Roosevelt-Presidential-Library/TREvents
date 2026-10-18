@@ -1,0 +1,23 @@
+{
+ "generated": "2026-10-18T14:43:46+00:00",
+ "site": "https://trevents.labs.trlibrary.com",
+ "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
+ "source": {
+  "id": "amnh",
+  "name": "American Museum of Natural History",
+  "short": "AMNH",
+  "url": "https://www.amnh.org/calendar",
+  "type": "keyword",
+  "region": "New York, NY",
+  "ok": false,
+  "count": 0,
+  "error": "FetchError: 403 for https://www.amnh.org/calendar",
+  "last_success": null,
+  "checked": "2026-10-18T14:43:46+00:00",
+  "using_cached_from": null,
+  "seconds": 0.2
+ },
+ "count": 0,
+ "events": []
+}
