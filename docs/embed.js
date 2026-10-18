@@ -3,8 +3,8 @@
  *   <div data-trevents="upcoming" data-limit="5" data-source="trpl,nps"></div>
  *   <script src="https://trevents.labs.trlibrary.com/embed.js" async></script>
  *
- * data-trevents: upcoming | month | week. Any other data-* attribute is passed to the widget
- * (source, attendance, cost, kind, q, limit, recurring, filters, title, theme, bg, compact, date).
+ * data-trevents: upcoming | browse | month | week. Any other data-* attribute is passed to the widget
+ * (source, attendance, cost, kind, q, when, limit, more, recurring, filters, title, theme, bg, compact, date).
  */
 (function () {
   "use strict";
@@ -26,7 +26,7 @@
     f.src = base + "widgets/" + encodeURIComponent(view) + ".html?" + q.toString();
     f.title = view === "upcoming" ? "Upcoming Theodore Roosevelt events" : "Theodore Roosevelt events calendar";
     f.loading = "lazy";
-    f.style.cssText = "width:100%;border:0;display:block;overflow:hidden;height:" + (view === "upcoming" ? 520 : 760) + "px";
+    f.style.cssText = "width:100%;border:0;display:block;overflow:hidden;height:" + (view === "upcoming" ? 520 : view === "browse" ? 900 : 760) + "px";
     f.setAttribute("scrolling", "no");
     el.appendChild(f);
     frames[id] = f;

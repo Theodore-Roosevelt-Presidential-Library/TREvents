@@ -1,8 +1,8 @@
 /* TR Events widgets: upcoming list, month calendar, week calendar.
  * Configure with URL parameters (or data- attributes on #tre-app):
- *   view=upcoming|month|week   source=trpl,nps   attendance=in_person,virtual,hybrid   cost=free,paid
+ *   view=upcoming|browse|month|week   source=trpl,nps   attendance=in_person,virtual,hybrid   cost=free,paid
  *   kind=event,tour,exhibition,program   q=keyword   limit=6   recurring=collapse|show|hide
- *   filters=1|0   title=Heading   theme=light|dark|auto   bg=transparent   compact=1   link=URL   date=YYYY-MM-DD
+ *   filters=1|0   more=link|button|scroll   when=week|month|3m   title=Heading   theme=light|dark|auto   bg=transparent   compact=1   link=URL   date=YYYY-MM-DD
  */
 (function () {
   "use strict";
@@ -12,6 +12,7 @@
   function list(k) { var v = opt(k, ""); return v ? v.split(",").map(function (s) { return s.trim(); }).filter(Boolean) : []; }
 
   var VIEW = opt("view", "upcoming");
+  var LIST = VIEW === "upcoming" || VIEW === "browse";
   var API = opt("api", new URL("../api/v1/widget.json", location.href).href);
   var SITE = opt("link", new URL("../", location.href).href);
   var theme = opt("theme", "auto");
@@ -20,8 +21,9 @@
 
   var state = {
     sources: list("source"), attendance: list("attendance"), cost: list("cost"), kind: list("kind"),
-    q: opt("q", "").toLowerCase(), limit: parseInt(opt("limit", VIEW === "upcoming" ? "6" : "500"), 10),
-    recurring: opt("recurring", "hide"),
+    q: opt("q", "").toLowerCase(), limit: parseInt(opt("limit", VIEW === "upcoming" ? "6" : VIEW === "browse" ? "10" : "500"), 10),
+    recurring: opt("recurring", "hide"), when: opt("when", ""), pages: 1,
+    more: opt("more", VIEW === "browse" ? "scroll" : "link"),   // link = "see all" link to the site; button = Show more; scroll = Show more + auto-load
     filters: opt("filters", VIEW === "upcoming" ? "0" : "1") === "1",
     cursor: null, data: null, narrow: false, openPop: false
   };
@@ -80,8 +82,17 @@
     if (state.cost.length && state.cost.indexOf(e.cost) < 0) return false;
     if (state.kind.length && state.kind.indexOf(e.kind) < 0) return false;
     if (state.recurring === "hide" && e.recurring && (e.kind === "tour" || e.kind === "program")) return false;
-    if (state.q && (e.title + " " + (e.summary || "") + " " + (e.venue || "")).toLowerCase().indexOf(state.q) < 0) return false;
+    if (state.q && (e.title + " " + (e.summary || "") + " " + (e.venue || "") + " " + (e.region_label || "") + " " + srcName(e.source)).toLowerCase().indexOf(state.q) < 0) return false;
+    if (state.when && sDate(e) > whenEnd()) return false;
     return true;
+  }
+  function whenEnd() {
+    var d = new Date();
+    if (state.when === "week") d = addDays(d, 6 - d.getDay());
+    else if (state.when === "month") d = new Date(d.getFullYear(), d.getMonth() + 1, 0);
+    else if (state.when === "3m") d = addDays(d, 90);
+    else return "9999-12-31";
+    return ymd(d);
   }
   function sortKey(e) { return (e.start.length > 10 ? new Date(e.start).toISOString() : e.start + "T00:00"); }
   function filtered() { return state.data.events.filter(matches); }
@@ -118,14 +129,23 @@
       }).join("") + "</div>";
     }
     pop += "</span>";
-    return '<div class="tre-filters">' + pop + '<span class="tre-sep"></span>' +
+    var extra = "";
+    if (VIEW === "browse") {
+      var whens = [["", "Any time"], ["week", "This week"], ["month", "This month"], ["3m", "Next 3 months"]];
+      extra = '<div class="tre-filters tre-filters-top"><label class="tre-search"><span class="tre-vh">Search events</span>' +
+        '<input type="search" id="tre-q" placeholder="Search events, places, organizations" value="' + esc(state.q) + '"></label>' +
+        whens.map(function (w) { return '<button class="tre-chip" data-when="' + w[0] + '" aria-pressed="' + (state.when === w[0]) + '">' + w[1] + "</button>"; }).join("") + "</div>";
+    }
+    var active = state.sources.length + state.attendance.length + state.cost.length + (state.q ? 1 : 0) + (state.when ? 1 : 0) + (state.recurring !== "hide" ? 1 : 0);
+    return extra + '<div class="tre-filters">' + pop + '<span class="tre-sep"></span>' +
       chip("attendance", "in_person", "In person") + chip("attendance", "virtual", "Virtual") + chip("attendance", "hybrid", "Hybrid") +
       '<span class="tre-sep"></span>' + chip("cost", "free", "Free") + chip("cost", "paid", "Paid") +
-      '<span class="tre-sep"></span><button class="tre-chip" data-rec="1" aria-pressed="' + (state.recurring !== "hide") + '">Include daily tours</button></div>';
+      '<span class="tre-sep"></span><button class="tre-chip" data-rec="1" aria-pressed="' + (state.recurring !== "hide") + '">Include daily tours</button>' +
+      (VIEW === "browse" && active ? '<button class="tre-clear" data-clear="1">Clear filters</button>' : "") + "</div>";
   }
   function header(rangeLabel) {
-    var t = opt("title", VIEW === "upcoming" ? "Upcoming Roosevelt Events" : "Roosevelt Events Calendar");
-    var nav = VIEW === "upcoming" ? "" :
+    var t = opt("title", VIEW === "upcoming" ? "Upcoming Roosevelt Events" : VIEW === "browse" ? "Roosevelt Events" : "Roosevelt Events Calendar");
+    var nav = LIST ? "" :
       '<div class="tre-nav"><button class="tre-btn tre-icon" data-nav="-1" aria-label="Previous">‹</button>' +
       '<div class="tre-range" aria-live="polite">' + esc(rangeLabel) + "</div>" +
       '<button class="tre-btn tre-icon" data-nav="1" aria-label="Next">›</button><button class="tre-btn" data-nav="0">Today</button></div>';
@@ -154,24 +174,34 @@
     });
     evs = collapse(evs);
     var total = evs.length;
-    evs = evs.slice(0, state.limit);
+    evs = evs.slice(0, state.limit * (state.more === "link" ? 1 : state.pages));
     var h = header("") + filterBar();
-    if (!evs.length) h += '<div class="tre-empty">No upcoming events match these filters.</div>';
+    if (VIEW === "browse") h += '<p class="tre-count" aria-live="polite">' + (total ? "Showing " + evs.length + " of " + total + " upcoming event" + (total === 1 ? "" : "s") : "") + "</p>";
+    if (!evs.length) h += '<div class="tre-empty">No upcoming events match these filters.' + (VIEW === "browse" ? ' <button class="tre-clear" data-clear="1">Clear filters</button>' : "") + "</div>";
     else {
+      var lastMonth = "";
       h += '<ul class="tre-list' + (opt("compact", "0") === "1" ? " tre-compact" : "") + '">' + evs.map(function (e, i) {
+        var mk = (sDate(e) < TODAY ? TODAY : sDate(e)).slice(0, 7), head = "";
+        if (VIEW === "browse" && mk !== lastMonth) { lastMonth = mk; head = '<li class="tre-month-h" aria-hidden="false"><h4>' + fmt(parseYmd(mk + "-01"), { month: "long", year: "numeric" }) + "</h4></li>"; }
         var d = parseYmd(sDate(e) < TODAY ? TODAY : sDate(e)), now = sDate(e) < TODAY;
         var dateBlock = now ? '<div class="tre-date"><span class="m">Now</span><span class="d">' + fmt(d, { day: "numeric" }) + '</span><span class="w">thru ' + fmt(parseYmd(eDate(e)), { month: "short", day: "numeric" }) + "</span></div>"
           : '<div class="tre-date"><span class="m">' + fmt(d, { month: "short" }) + '</span><span class="d">' + fmt(d, { day: "numeric" }) + '</span><span class="w">' + fmt(d, { weekday: "short" }) + "</span></div>";
         var when = spanDays(e) > 0 ? dateLabel(e) : timeLabel(e);
-        return '<li><button class="tre-card' + (e.image ? " has-img" : "") + '" data-i="' + i + '">' + dateBlock +
+        return head + '<li><button class="tre-card' + (e.image ? " has-img" : "") + '" data-i="' + i + '">' + dateBlock +
           "<div><h3>" + esc(e.title) + '</h3><div class="tre-meta"><strong>' + esc(when) + "</strong>" + (when && where(e) ? " · " : "") + esc(where(e)) +
           '</div><div class="tre-meta">' + esc(srcName(e.source, true)) + "</div>" + badges(e) + "</div>" +
           (e.image ? '<img src="' + esc(e.image) + '" alt="" loading="lazy">' : "") + "</button></li>";
       }).join("") + "</ul>";
-      if (total > evs.length) h += '<p class="tre-more"><a href="' + esc(SITE) + '" target="_blank" rel="noopener">See all ' + total + " upcoming events →</a></p>";
+      if (total > evs.length) {
+        if (state.more === "link") h += '<p class="tre-more"><a href="' + esc(SITE) + '" target="_blank" rel="noopener">See all ' + total + " upcoming events →</a></p>";
+        else h += '<div class="tre-loadmore"><button class="tre-btn" data-more="1">Show more events <span>(' + (total - evs.length) + " more)</span></button></div>";
+      }
     }
+    var qEl = document.getElementById("tre-q"), hadFocus = qEl && document.activeElement === qEl, caret = hadFocus ? qEl.selectionStart : 0;
     app.innerHTML = h + footer();
     app.querySelectorAll(".tre-card").forEach(function (b) { b.onclick = function () { openEvent(evs[+b.dataset.i]); }; });
+    if (hadFocus) { qEl = document.getElementById("tre-q"); qEl.focus(); try { qEl.setSelectionRange(caret, caret); } catch (err) {} }
+    watchMore();
   }
 
   function dayBuckets(from, to) {
@@ -260,25 +290,37 @@
     return "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent(e.title) + "&dates=" + dates +
       "&details=" + encodeURIComponent((e.summary || "") + "\n\n" + (e.url || "")) + "&location=" + encodeURIComponent(where(e));
   }
-  var lastFocus = null;
+  var lastFocus = null, lastClick = { el: null, y: null };
+  // remember what was clicked (Safari doesn't focus buttons on click, so activeElement isn't enough)
+  document.addEventListener("click", function (ev) {
+    if (ev.target.closest && ev.target.closest(".tre-modal")) return;
+    lastClick = { el: ev.target.closest ? ev.target.closest("button,a") : null, y: ev.clientY };
+  }, true);
   function closeModal() {
     var m = document.querySelector(".tre-modal"); if (!m) return;
     m.remove(); document.body.style.minHeight = "";
-    if (lastFocus && document.contains(lastFocus)) lastFocus.focus();
+    if (lastFocus && document.contains(lastFocus)) lastFocus.focus({ preventScroll: true });
     postHeight();
   }
   function modal(html) {
-    closeModal(); lastFocus = document.activeElement;
+    var wasOpen = !!document.querySelector(".tre-modal"), keepTop = wasOpen ? document.querySelector(".tre-modal").style.paddingTop : null;
+    closeModal();
+    if (!wasOpen) lastFocus = (lastClick.el && document.contains(lastClick.el)) ? lastClick.el : document.activeElement;
     var m = document.createElement("div");
     m.className = "tre-modal"; m.innerHTML = '<div class="tre-dialog" role="dialog" aria-modal="true">' + html + "</div>";
-    if (window.parent !== window) {  // inside an auto-height iframe: open the dialog next to what was clicked
-      var r = lastFocus && lastFocus.getBoundingClientRect ? lastFocus.getBoundingClientRect() : { top: 0 };
+    if (window.parent !== window) {  // inside an auto-height iframe: open the dialog right where the visitor clicked
+      var top;
+      if (keepTop) top = parseInt(keepTop, 10);
+      else {
+        var y = lastClick.y != null ? lastClick.y : (lastFocus && lastFocus.getBoundingClientRect ? lastFocus.getBoundingClientRect().top : 0);
+        top = y + window.scrollY - 140;
+      }
       m.classList.add("in-frame");
-      m.style.paddingTop = Math.max(16, r.top + window.scrollY - 120) + "px";
+      m.style.paddingTop = Math.max(16, top) + "px";
     }
     m.onclick = function (ev) { if (ev.target === m || ev.target.closest(".tre-close")) closeModal(); var b = ev.target.closest("[data-id]"); if (b) openEvent(byId(b.dataset.id)); };
     document.body.appendChild(m);
-    var c = m.querySelector(".tre-close"); if (c) c.focus();
+    var c = m.querySelector(".tre-close"); if (c) c.focus({ preventScroll: true });
     document.body.style.minHeight = (m.querySelector(".tre-dialog").offsetHeight + (parseInt(m.style.paddingTop, 10) || 24) + 40) + "px";
     postHeight();
   }
@@ -326,13 +368,36 @@
       else state.cursor = addDays(state.cursor, 7 * n);
       render(); return;
     }
-    if (t.dataset.f) { var g = state[t.dataset.f], i = g.indexOf(t.dataset.v); if (i >= 0) g.splice(i, 1); else g.push(t.dataset.v); render(); return; }
-    if (t.dataset.rec) { state.recurring = state.recurring === "hide" ? (VIEW === "upcoming" ? "collapse" : "show") : "hide"; render(); return; }
+    if (t.dataset.more) { state.pages++; render(); return; }
+    if (t.dataset.when !== undefined) { state.when = t.dataset.when; state.pages = 1; render(); return; }
+    if (t.dataset.clear) { state.sources = []; state.attendance = []; state.cost = []; state.q = ""; state.when = ""; state.recurring = "hide"; state.pages = 1; state.openPop = false; render(); return; }
+    if (t.dataset.f) { var g = state[t.dataset.f], i = g.indexOf(t.dataset.v); if (i >= 0) g.splice(i, 1); else g.push(t.dataset.v); state.pages = 1; render(); return; }
+    if (t.dataset.rec) { state.pages = 1; state.recurring = state.recurring === "hide" ? (VIEW === "upcoming" ? "collapse" : "show") : "hide"; render(); return; }
     if (t.dataset.pop) { state.openPop = !state.openPop; render(); return; }
-    if (t.dataset.src) { var j = state.sources.indexOf(t.dataset.src); if (t.checked && j < 0) state.sources.push(t.dataset.src); if (!t.checked && j >= 0) state.sources.splice(j, 1); render(); return; }
+    if (t.dataset.src) { state.pages = 1; var j = state.sources.indexOf(t.dataset.src); if (t.checked && j < 0) state.sources.push(t.dataset.src); if (!t.checked && j >= 0) state.sources.splice(j, 1); render(); return; }
     if (t.dataset.day) { openDay(t.dataset.day); return; }
     if (t.dataset.id) { openEvent(byId(t.dataset.id)); }
   });
+  var qTimer;
+  app.addEventListener("input", function (ev) {
+    if (ev.target.id !== "tre-q") return;
+    clearTimeout(qTimer);
+    qTimer = setTimeout(function () { state.q = ev.target.value.trim().toLowerCase(); state.pages = 1; render(); }, 180);
+  });
+  // progressive loading: when the "Show more" button scrolls into view (in the page that embeds the iframe), load the next page
+  var moreObs = null, moreBusy = false;
+  function watchMore() {
+    if (moreObs) moreObs.disconnect();
+    if (state.more !== "scroll" || !window.IntersectionObserver) return;
+    var b = app.querySelector("[data-more]");
+    if (!b) return;
+    moreObs = new IntersectionObserver(function (es) {
+      if (!es[0].isIntersecting || moreBusy) return;
+      moreBusy = true;
+      setTimeout(function () { state.pages++; render(); moreBusy = false; }, 250);
+    }, { rootMargin: "0px 0px 200px 0px" });
+    moreObs.observe(b);
+  }
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") { if (document.querySelector(".tre-modal")) closeModal(); else if (state.openPop) { state.openPop = false; render(); } } });
 
   var frameId = opt("frame", "");

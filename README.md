@@ -7,6 +7,7 @@ Outputs:
 | Output | URL |
 |---|---|
 | Upcoming events widget | `/widgets/upcoming.html` |
+| Browse widget — search, date and filter controls, loads more as you scroll | `/widgets/browse.html` |
 | Month calendar widget | `/widgets/month.html` |
 | Week calendar widget | `/widgets/week.html` |
 | Embed loader (auto-sizing iframe) | `/embed.js` |
@@ -51,7 +52,7 @@ Full definitions: `/api/v1/fields.json` (source: `trevents/fields.py`).
 <script src="https://trevents.labs.trlibrary.com/embed.js" async></script>
 ```
 
-`data-trevents` = `upcoming | month | week`. Optional: `data-source`, `data-attendance`, `data-cost`, `data-kind`, `data-q`, `data-limit`, `data-recurring` (`hide` = default, leaves out repeating tours and daily programs; `collapse` = one row per tour series; `show` = every tour time), `data-filters` (`1` shows the filter bar), `data-title` (`none` hides it), `data-theme` (`light | dark | auto`), `data-bg="transparent"`, `data-compact="1"`, `data-date` (`YYYY-MM-DD` start). The same keys work as URL parameters on the widget pages for a plain iframe. The home page has a snippet builder.
+`data-trevents` = `upcoming | browse | month | week`. Optional: `data-source`, `data-attendance`, `data-cost`, `data-kind`, `data-q`, `data-when` (`week | month | 3m`), `data-limit` (Browse: page size), `data-more` (`link` = "see all" link to the site, `button` = Show more, `scroll` = Show more + auto-load as visitors scroll; Browse defaults to `scroll`), `data-recurring` (`hide` = default, leaves out repeating tours and daily programs; `collapse` = one row per tour series; `show` = every tour time), `data-filters` (`1` shows the filter bar), `data-title` (`none` hides it), `data-theme` (`light | dark | auto`), `data-bg="transparent"`, `data-compact="1"`, `data-date` (`YYYY-MM-DD` start). The same keys work as URL parameters on the widget pages for a plain iframe. The home page has a snippet builder.
 
 ## Running it
 

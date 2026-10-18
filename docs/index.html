@@ -73,7 +73,7 @@
 <main>
 <section id="calendar"><div class="wrap">
   <div class="views seg" role="group" aria-label="View">
-    <button data-view="month" aria-pressed="true">Month</button><button data-view="week" aria-pressed="false">Week</button><button data-view="upcoming" aria-pressed="false">Upcoming</button>
+    <button data-view="month" aria-pressed="true">Month</button><button data-view="week" aria-pressed="false">Week</button><button data-view="browse" aria-pressed="false">List</button>
   </div>
   <iframe class="cal" id="cal" title="Theodore Roosevelt events calendar" src="widgets/month.html?title=none&frame=cal" style="height:820px"></iframe>
 </div></section>
@@ -86,18 +86,18 @@
 
 <section id="embed"><div class="wrap">
   <h2>Embed a widget</h2>
-  <p class="intro">Pick a view and filters, then paste the snippet into any page. In Drupal, use the <em>Full HTML</em> text format (or paste the iframe version). The widget sizes itself to its content.</p>
+  <p class="intro">Pick a view and filters, then paste the snippet into any page. <strong>Browse</strong> gives visitors search, date and filter controls and keeps loading events as they scroll, all inside the embed. In Drupal, use the <em>Full HTML</em> text format (or paste the iframe version). The widget sizes itself to its content.</p>
   <div class="builder">
     <div>
       <label>View</label>
-      <div class="seg opts" id="b-view"><button data-v="upcoming" aria-pressed="true">Upcoming</button><button data-v="month" aria-pressed="false">Month</button><button data-v="week" aria-pressed="false">Week</button></div>
+      <div class="seg opts" id="b-view"><button data-v="upcoming" aria-pressed="true">Upcoming</button><button data-v="browse" aria-pressed="false">Browse (filters + load more)</button><button data-v="month" aria-pressed="false">Month</button><button data-v="week" aria-pressed="false">Week</button></div>
       <label>How people attend</label>
       <div class="seg opts" id="b-attendance"><button data-v="in_person" aria-pressed="false">In person</button><button data-v="virtual" aria-pressed="false">Virtual</button><button data-v="hybrid" aria-pressed="false">Hybrid</button></div>
       <label>Cost</label>
       <div class="seg opts" id="b-cost"><button data-v="free" aria-pressed="false">Free</button><button data-v="paid" aria-pressed="false">Paid</button></div>
       <label>Organizations</label>
       <div class="srcpick" id="b-source"></div>
-      <label for="b-limit">Number of events (upcoming)</label>
+      <label for="b-limit">Events shown (Browse: per page)</label>
       <input type="number" id="b-limit" value="6" min="1" max="50">
       <label for="b-title">Heading (blank = default, "none" = no heading)</label>
       <input type="text" id="b-title" placeholder="Upcoming Roosevelt Events">
@@ -159,7 +159,7 @@
   document.querySelectorAll(".views button").forEach(function (b) {
     b.onclick = function () {
       document.querySelectorAll(".views button").forEach(function (x) { x.setAttribute("aria-pressed", x === b); });
-      cal.src = "widgets/" + b.dataset.view + ".html?title=none&frame=cal" + (b.dataset.view === "upcoming" ? "&limit=40&filters=1" : "");
+      cal.src = "widgets/" + b.dataset.view + ".html?title=none&frame=cal" + (b.dataset.view === "browse" ? "&limit=15" : "");
     };
   });
   var tabs = document.querySelectorAll("nav.tabs a");
@@ -218,7 +218,7 @@
     if (s.length) attrs.push(["data-source", s.join(",")]);
     if (a.length) attrs.push(["data-attendance", a.join(",")]);
     if (c.length) attrs.push(["data-cost", c.join(",")]);
-    if (view === "upcoming") attrs.push(["data-limit", document.getElementById("b-limit").value || "6"]);
+    if (view === "upcoming" || view === "browse") attrs.push(["data-limit", document.getElementById("b-limit").value || (view === "browse" ? "10" : "6")]);
     var t = document.getElementById("b-title").value.trim(); if (t) attrs.push(["data-title", t]);
     if (flags.indexOf("show_recurring") >= 0) attrs.push(["data-recurring", view === "upcoming" ? "collapse" : "show"]);
     if (flags.indexOf("compact") >= 0) attrs.push(["data-compact", "1"]);
@@ -227,7 +227,7 @@
     var div = "<div " + attrs.map(function (x) { return x[0] + '="' + x[1].replace(/"/g, "&quot;") + '"'; }).join(" ") + "></div>";
     document.getElementById("b-code").textContent = div + '\n<script src="' + SITE + 'embed.js" async><\/script>';
     var q = attrs.slice(1).map(function (x) { return x[0].slice(5) + "=" + encodeURIComponent(x[1]); }).join("&");
-    document.getElementById("b-iframe").textContent = '<iframe src="' + SITE + "widgets/" + view + ".html" + (q ? "?" + q : "") + '" title="Theodore Roosevelt events" style="width:100%;height:' + (view === "upcoming" ? 640 : 820) + 'px;border:0" loading="lazy"></iframe>';
+    document.getElementById("b-iframe").textContent = '<iframe src="' + SITE + "widgets/" + view + ".html" + (q ? "?" + q : "") + '" title="Theodore Roosevelt events" style="width:100%;height:' + (view === "upcoming" ? 640 : view === "browse" ? 1100 : 820) + 'px;border:0" loading="lazy"></iframe>';
     clearTimeout(timer);
     timer = setTimeout(function () {
       var p = document.getElementById("b-preview"); p.innerHTML = div;

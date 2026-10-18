@@ -13,7 +13,7 @@
   --bg:#ffffff; --surface:#f6f4ef; --surface-2:#ece8de; --line:#d1ccbd; --text:#25282a; --muted:#5d6063;
   --accent:#e7805d; --accent-strong:#b8573a; --forest:#1b4633; --sky:#092a4d;
   --chip-in:#1b4633; --chip-virtual:#092a4d; --chip-hybrid:#6b3fa0; --chip-free:#1f6b3b; --chip-paid:#7a4b12;
-  --radius:4px; --shadow:0 1px 2px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06);
+  --radius:4px; --shadow:0 1px 2px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06); --scrim:rgba(255,255,255,.78); --dialog-shadow:0 2px 6px rgba(0,0,0,.08),0 18px 48px rgba(37,40,42,.22);
   --display:"Dharma Gothic E","Dharma Gothic E Fallback",Impact,"Arial Narrow",sans-serif;
   --serif:Clearface,"Clearface Fallback",Georgia,serif;
   --sans:Frutiger,"Frutiger Fallback",-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
@@ -22,12 +22,13 @@
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#17191a; --surface:#202325; --surface-2:#2a2e31; --line:#3a3f42; --text:#ecebe6; --muted:#a7a9a6;
   --accent:#f0916f; --accent-strong:#f6a98c; --chip-in:#8fc895; --chip-virtual:#99adc5; --chip-hybrid:#c4a6ea; --chip-free:#8fc895; --chip-paid:#f9d635;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.3); color-scheme:dark}}
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.3); --scrim:rgba(23,25,26,.72); --dialog-shadow:0 18px 48px rgba(0,0,0,.5); color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#17191a; --surface:#202325; --surface-2:#2a2e31; --line:#3a3f42; --text:#ecebe6; --muted:#a7a9a6;
   --accent:#f0916f; --accent-strong:#f6a98c; --chip-in:#8fc895; --chip-virtual:#99adc5; --chip-hybrid:#c4a6ea; --chip-free:#8fc895; --chip-paid:#f9d635;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.3); color-scheme:dark}
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.3); --scrim:rgba(23,25,26,.72); --dialog-shadow:0 18px 48px rgba(0,0,0,.5); color-scheme:dark}
 :root[data-bg="transparent"] body{background:transparent}
+:root[data-bg="transparent"] .tre-modal{background:var(--scrim)}
 
 *{box-sizing:border-box}
 html,body{margin:0}
@@ -55,6 +56,20 @@ a{color:inherit}
 .tre-pop-panel label{display:flex;gap:8px;align-items:center;padding:6px 8px;border-radius:3px;font-size:14px;cursor:pointer}
 .tre-pop-panel label:hover{background:var(--surface)}
 .tre-pop-panel input{accent-color:var(--accent)}
+
+/* browse */
+.tre-filters-top{margin-bottom:8px}
+.tre-search{flex:1 1 260px;min-width:200px}
+.tre-search input{width:100%;font:inherit;font-size:14px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--bg);color:var(--text)}
+.tre-search input:focus{outline:2px solid var(--accent);outline-offset:1px}
+.tre-vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.tre-clear{border:0;background:none;color:var(--accent-strong);font-weight:700;font-size:13px;text-decoration:underline;padding:4px 6px}
+.tre-count{font-size:13px;color:var(--muted);margin:0 0 10px}
+.tre-month-h h4{font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:22px;line-height:1;margin:14px 0 2px}
+.tre-month-h:first-child h4{margin-top:0}
+.tre-loadmore{text-align:center;margin-top:14px}
+.tre-loadmore .tre-btn{padding:9px 18px;font-size:14px}
+.tre-loadmore span{font-weight:400;color:var(--muted)}
 
 /* badges */
 .tre-badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
@@ -121,9 +136,9 @@ a{color:inherit}
 .tre-agenda h4:first-child{margin-top:0}
 
 /* modal */
-.tre-modal{position:fixed;inset:0;z-index:50;background:rgba(17,25,40,.55);display:flex;align-items:flex-start;justify-content:center;padding:24px 16px;overflow:auto}
+.tre-modal{position:fixed;inset:0;z-index:50;background:var(--scrim);-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px);display:flex;align-items:flex-start;justify-content:center;padding:24px 16px;overflow:auto}
 .tre-modal.in-frame{position:absolute;bottom:auto;min-height:100%}
-.tre-dialog{background:var(--bg);color:var(--text);max-width:620px;width:100%;border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+.tre-dialog{background:var(--bg);color:var(--text);max-width:620px;width:100%;border-radius:var(--radius);box-shadow:var(--dialog-shadow);border:1px solid var(--line);overflow:hidden}
 .tre-dialog img.hero{width:100%;max-height:240px;object-fit:cover;display:block}
 .tre-dialog .body{padding:18px 20px 20px}
 .tre-dialog h2{font-family:var(--serif);font-weight:500;font-size:24px;line-height:1.2;margin:4px 0 6px}
