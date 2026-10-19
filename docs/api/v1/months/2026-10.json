@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-18T14:46:23+00:00",
+ "generated": "2026-10-19T10:33:27+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
  "month": "2026-10",
- "count": 67,
+ "count": 60,
  "events": [
   {
    "source": "trsite",
@@ -53,7 +53,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -113,394 +113,8 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "1F4824F4-F75A-F0BA-50FE72A58E97BABC",
-   "title": "Guided Grounds Tour",
-   "start": "2026-10-18T10:30:00-04:00",
-   "end": "2026-10-18T11:15:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0BA-50FE72A58E97BABC",
-   "description": "Step back in time with the Roosevelts and hear stories about their lives at Sagamore Hill. This will be a 30-45 minute guided walk around the grounds of Sagamore Hill. The tour will begin at the picnic area, with stops at important buildings and places on the Roosevelt property. This walk will take place outside, please dress accordingly and bring water.",
-   "image": "https://www.nps.gov/common/uploads/event_calendar/AAE66336-D503-5B7C-31D04EDC533E630D.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "This is a free guided walk of the Sagamore Hill grounds.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": false,
-   "registration_url": null,
-   "venue": {
-    "name": "Sagamore Hill National Historic Site",
-    "address": "Meet at the picnic area by the parking lot.",
-    "city": "Oyster Bay",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Sagamore Hill National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour",
-    "Walk"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "b504b55ad42f",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "sahi",
-    "nps_category": "Regular Event",
-    "reservation_info": "No reservation is required.",
-    "contact": "SAHI_Information@nps.gov"
-   },
-   "id": "7694c985d8e91e36",
-   "summary": "Step back in time with the Roosevelts and hear stories about their lives at Sagamore Hill. This will be a 30-45 minute guided walk around the grounds of Sagamore Hill. The tour will begin at the picnic area, with stops…",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Oyster Bay, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-18T11:00:00-04:00",
-   "end": "2026-10-18T11:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "594787e3f2898e15",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "architecture-and-sustainability-tour",
-   "title": "Architecture and Sustainability Tour",
-   "start": "2026-10-18T11:30:00-06:00",
-   "end": "2026-10-18T12:45:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "description": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and architecture shaped by the surrounding landscape.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg.webp?h=7ae0bea3",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "537182e7ada6",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor & Outdoor"
-   },
-   "id": "e0f7854fa205c653",
-   "summary": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Medora, ND"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-18T12:00:00-04:00",
-   "end": "2026-10-18T12:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "ad4cb3e771d1e49f",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-18T14:00:00-04:00",
-   "end": "2026-10-18T14:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "75d04a48bc84176d",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "tr-deep-dive-tour",
-   "title": "T.R. Deep-Dive Tour",
-   "start": "2026-10-18T14:00:00-06:00",
-   "end": "2026-10-18T15:15:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "description": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique stories only objects can tell.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Image-5--1-.png.webp?h=3c1e4160",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "5b44e4f8f95d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor"
-   },
-   "id": "374f69c0109d77c5",
-   "summary": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Medora, ND"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-18T15:00:00-04:00",
-   "end": "2026-10-18T15:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "f875f6519092a7f4",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "New York, NY"
   },
   {
    "source": "trsite",
@@ -549,7 +163,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -601,7 +215,7 @@
    "source_name": "The Teddy Roosevelt Show (Joe Wiegand)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Sanibel, FL"
   },
   {
@@ -656,7 +270,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -711,7 +325,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -766,7 +380,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -821,7 +435,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -876,7 +490,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -931,7 +545,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -986,7 +600,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1041,7 +655,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1097,7 +711,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -1152,7 +766,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1207,7 +821,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1262,7 +876,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1317,7 +931,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1372,7 +986,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1422,7 +1036,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -1477,7 +1091,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1532,7 +1146,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1588,7 +1202,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -1644,7 +1258,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -1699,7 +1313,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1754,7 +1368,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1809,7 +1423,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1866,7 +1480,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -1921,7 +1535,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -1976,7 +1590,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2031,7 +1645,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2087,7 +1701,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -2142,7 +1756,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2198,7 +1812,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -2253,7 +1867,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2308,7 +1922,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2363,7 +1977,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2418,7 +2032,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2473,7 +2087,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2528,7 +2142,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2583,7 +2197,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2638,7 +2252,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2693,7 +2307,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2748,7 +2362,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2803,7 +2417,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2858,7 +2472,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2913,7 +2527,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -2968,7 +2582,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3024,7 +2638,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -3079,7 +2693,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3134,7 +2748,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3189,7 +2803,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3244,7 +2858,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3299,7 +2913,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3355,7 +2969,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -3410,7 +3024,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3465,7 +3079,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3520,7 +3134,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3575,7 +3189,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   },
   {
@@ -3630,7 +3244,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3685,7 +3299,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "New York, NY"
   }
  ]
