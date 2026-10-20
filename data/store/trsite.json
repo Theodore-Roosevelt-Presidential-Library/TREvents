@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-19",
+ "fetched": "2026-10-20",
  "events": [
   {
    "source": "trsite",
@@ -91,52 +91,6 @@
    },
    "id": "deaf69bdf8503c92",
    "summary": "Each month, we (randomly) choose one state, and in-person visitors from that state will receive a special 10% discount on all bookstore purchases. October’s State-of-the-Month is . . . VIRGINIA!",
-   "source_name": "Theodore Roosevelt Inaugural Site"
-  },
-  {
-   "source": "trsite",
-   "source_event_id": "staff-appreciation-day",
-   "title": "Staff Appreciation Day",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "all_day": true,
-   "timezone": "America/New_York",
-   "url": "https://www.trsite.org/events/staff-appreciation-day",
-   "description": "On Monday, October 19th, we will pause to celebrate & recognize our entire staff for their dedication & hard work.\n\nThank you for all that you do to advance Theodore Roosevelt’s legacy of leadership by inspiring civic engagement and preserving the site of TR’s unexpected 1901 inauguration in Buffalo, New York.\n\n“BULLY!”",
-   "image": "https://www.trsite.org/app/uploads/2026/10/2026.10_StaffAppreciation_WebEvent.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": "N/A",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Inaugural Site",
-    "address": "641 Delaware Ave",
-    "city": "Buffalo",
-    "region": "NY",
-    "postal_code": "14202",
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Inaugural Site",
-   "kind": "closure",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "068bb04423bf",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "date_text": "October 19, 12:00 am - 11:59 pm"
-   },
-   "id": "1c61159594c1bd77",
-   "summary": "On Monday, October 19th, we will pause to celebrate & recognize our entire staff for their dedication & hard work. Thank you for all that you do to advance Theodore Roosevelt’s legacy of leadership by inspiring civic…",
    "source_name": "Theodore Roosevelt Inaugural Site"
   },
   {

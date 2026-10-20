@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T10:33:27+00:00",
+ "generated": "2026-10-20T10:28:59+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -11,13 +11,13 @@
   "type": "core",
   "region": "Buffalo, NY",
   "ok": true,
-  "count": 4,
+  "count": 3,
   "error": null,
-  "last_success": "2026-10-19",
-  "checked": "2026-10-19T10:30:18+00:00",
+  "last_success": "2026-10-20",
+  "checked": "2026-10-20T10:27:53+00:00",
   "seconds": 2.7
  },
- "count": 4,
+ "count": 3,
  "events": [
   {
    "source": "trsite",
@@ -66,7 +66,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "region_label": "Buffalo, NY"
   },
   {
@@ -116,57 +116,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-19",
-   "region_label": "Buffalo, NY"
-  },
-  {
-   "source": "trsite",
-   "source_event_id": "staff-appreciation-day",
-   "title": "Staff Appreciation Day",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "all_day": true,
-   "timezone": "America/New_York",
-   "url": "https://www.trsite.org/events/staff-appreciation-day",
-   "description": "On Monday, October 19th, we will pause to celebrate & recognize our entire staff for their dedication & hard work.\n\nThank you for all that you do to advance Theodore Roosevelt’s legacy of leadership by inspiring civic engagement and preserving the site of TR’s unexpected 1901 inauguration in Buffalo, New York.\n\n“BULLY!”",
-   "image": "https://www.trsite.org/app/uploads/2026/10/2026.10_StaffAppreciation_WebEvent.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": "N/A",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Inaugural Site",
-    "address": "641 Delaware Ave",
-    "city": "Buffalo",
-    "region": "NY",
-    "postal_code": "14202",
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Inaugural Site",
-   "kind": "closure",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "068bb04423bf",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "date_text": "October 19, 12:00 am - 11:59 pm"
-   },
-   "id": "1c61159594c1bd77",
-   "summary": "On Monday, October 19th, we will pause to celebrate & recognize our entire staff for their dedication & hard work. Thank you for all that you do to advance Theodore Roosevelt’s legacy of leadership by inspiring civic…",
-   "source_name": "Theodore Roosevelt Inaugural Site",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "region_label": "Buffalo, NY"
   },
   {
@@ -216,7 +166,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "region_label": "Buffalo, NY"
   }
  ]
