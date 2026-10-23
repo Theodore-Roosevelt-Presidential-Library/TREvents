@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/tra.ics
 BEGIN:VEVENT
 UID:1f2d12fe3d2a61c7@trevents.labs.trlibrary.com
-DTSTAMP:20261022T103401Z
+DTSTAMP:20261023T103121Z
 DTSTART:20270604T120000Z
 DTEND:20270614T210000Z
 SUMMARY:Theodore Roosevelt Association Strenuous Life Adventure Africa Expe
