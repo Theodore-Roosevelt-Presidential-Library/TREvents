@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T10:28:27+00:00",
+ "generated": "2026-10-25T10:28:38+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": [
@@ -11,11 +11,11 @@
    "type": "core",
    "region": "Medora, ND",
    "ok": true,
-   "count": 150,
+   "count": 148,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:26:29+00:00",
-   "seconds": 18.4
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:19+00:00",
+   "seconds": 19.5
   },
   {
    "id": "nps",
@@ -25,11 +25,11 @@
    "type": "core",
    "region": "NY, DC, ND",
    "ok": true,
-   "count": 371,
+   "count": 361,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:26:48+00:00",
-   "seconds": 1.1
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:38+00:00",
+   "seconds": 1.0
   },
   {
    "id": "trsite",
@@ -41,9 +41,9 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:26:49+00:00",
-   "seconds": 2.5
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:39+00:00",
+   "seconds": 2.4
   },
   {
    "id": "fosh",
@@ -55,9 +55,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:26:51+00:00",
-   "seconds": 16.3
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:42+00:00",
+   "seconds": 16.1
   },
   {
    "id": "tra",
@@ -69,8 +69,8 @@
    "ok": true,
    "count": 1,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:08+00:00",
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:58+00:00",
    "seconds": 1.0
   },
   {
@@ -83,9 +83,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:09+00:00",
-   "seconds": 0.2
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:59+00:00",
+   "seconds": 0.3
   },
   {
    "id": "chautauqua",
@@ -97,9 +97,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:09+00:00",
-   "seconds": 2.2
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:26:59+00:00",
+   "seconds": 1.8
   },
   {
    "id": "joe",
@@ -111,9 +111,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:11+00:00",
-   "seconds": 1.3
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:27:01+00:00",
+   "seconds": 2.0
   },
   {
    "id": "smithsonian",
@@ -125,9 +125,9 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:12+00:00",
-   "seconds": 2.2
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:27:03+00:00",
+   "seconds": 1.7
   },
   {
    "id": "loc",
@@ -139,9 +139,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:27:15+00:00",
-   "seconds": 69.6
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:27:05+00:00",
+   "seconds": 91.2
   },
   {
    "id": "nara",
@@ -153,9 +153,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:28:24+00:00",
-   "seconds": 1.0
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:28:36+00:00",
+   "seconds": 0.7
   },
   {
    "id": "harvard",
@@ -167,8 +167,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:28:25+00:00",
+   "last_success": "2026-10-25",
+   "checked": "2026-10-25T10:28:37+00:00",
    "seconds": 0.8
   },
   {
@@ -178,12 +178,13 @@
    "url": "https://www.whitehousehistory.org/events?topic=All&type=upcoming&orderBy=date+ASC",
    "type": "keyword",
    "region": "Washington, DC",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": null,
+   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 30s, r",
    "last_success": "2026-10-24",
-   "checked": "2026-10-24T10:28:26+00:00",
-   "seconds": 1.0
+   "checked": "2026-10-25T10:28:37+00:00",
+   "using_cached_from": null,
+   "seconds": 0.3
   },
   {
    "id": "amnh",
@@ -194,11 +195,11 @@
    "region": "New York, NY",
    "ok": false,
    "count": 0,
-   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 55s, r",
+   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 30s, r",
    "last_success": "2026-10-23",
-   "checked": "2026-10-24T10:28:27+00:00",
+   "checked": "2026-10-25T10:28:38+00:00",
    "using_cached_from": null,
-   "seconds": 0.3
+   "seconds": 0.4
   }
  ]
 }
