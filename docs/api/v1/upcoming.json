@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:26:28+00:00",
+ "generated": "2026-10-29T10:25:58+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Buffalo, NY"
   },
   {
@@ -102,7 +102,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Buffalo, NY"
   },
   {
@@ -162,7 +162,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND"
   },
   {
@@ -212,15 +212,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-10-28T11:00:00-04:00",
-   "end": "2026-10-28T11:45:00-04:00",
+   "start": "2026-10-29T11:00:00-04:00",
+   "end": "2026-10-29T11:45:00-04:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -262,12 +262,12 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "371948a79c29aea0",
+   "id": "bc0ebc234929e549",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "New York, NY",
    "occurrences": 348
   },
@@ -324,7 +324,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Oyster Bay, NY",
    "occurrences": 2
   },
@@ -380,7 +380,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "New York, NY"
   },
   {
@@ -435,7 +435,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 23
   },
@@ -491,7 +491,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "New York, NY"
   },
   {
@@ -546,7 +546,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 22
   },
@@ -602,9 +602,9 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
-   "occurrences": 87
+   "occurrences": 88
   },
   {
    "source": "smithsonian",
@@ -658,7 +658,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Washington, DC"
   },
   {
@@ -713,7 +713,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Washington, DC"
   },
   {
@@ -768,7 +768,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -821,7 +821,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Washington, DC"
   },
   {
@@ -876,7 +876,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -932,7 +932,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -946,7 +946,7 @@
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
    "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media.jpg.webp?h=3799b3dc",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media--1-.jpg.webp?h=d3dbd649",
    "attendance": "in_person",
    "online_url": null,
    "cost": "unknown",
@@ -988,7 +988,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -996,8 +996,8 @@
    "source": "trpl",
    "source_event_id": "butchery-workshop",
    "title": "Butchery Workshop",
-   "start": "2027-01-23T09:00:00-07:00",
-   "end": "2027-01-23T11:00:00-07:00",
+   "start": "2027-01-24T08:00:00-07:00",
+   "end": "2027-01-24T10:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/butchery-workshop",
@@ -1039,12 +1039,12 @@
     "room": "Salt+Scoria",
     "setting": "Indoor"
    },
-   "id": "843fabeb1ad6d9dd",
+   "id": "f7d2ef1c9099aa8d",
    "summary": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
    "region_label": "Medora, ND"
   },
   {
@@ -1096,7 +1096,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "region_label": "National"
   }
  ]
