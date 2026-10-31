@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:25:05+00:00",
+ "generated": "2026-10-31T10:25:05+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -11,400 +11,14 @@
   "type": "core",
   "region": "NY, DC, ND",
   "ok": true,
-  "count": 364,
+  "count": 361,
   "error": null,
-  "last_success": "2026-10-30",
-  "checked": "2026-10-30T10:23:25+00:00",
-  "seconds": 1.0
+  "last_success": "2026-10-31",
+  "checked": "2026-10-31T10:21:31+00:00",
+  "seconds": 1.1
  },
- "count": 359,
+ "count": 356,
  "events": [
-  {
-   "source": "nps",
-   "source_event_id": "1F4824F4-F75A-F0BA-50FE72A58E97BABC",
-   "title": "Guided Grounds Tour",
-   "start": "2026-10-30T10:30:00-04:00",
-   "end": "2026-10-30T11:15:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0BA-50FE72A58E97BABC",
-   "description": "Step back in time with the Roosevelts and hear stories about their lives at Sagamore Hill. This will be a 30-45 minute guided walk around the grounds of Sagamore Hill. The tour will begin at the picnic area, with stops at important buildings and places on the Roosevelt property. This walk will take place outside, please dress accordingly and bring water.",
-   "image": "https://www.nps.gov/common/uploads/event_calendar/AAE66336-D503-5B7C-31D04EDC533E630D.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "This is a free guided walk of the Sagamore Hill grounds.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": false,
-   "registration_url": null,
-   "venue": {
-    "name": "Sagamore Hill National Historic Site",
-    "address": "Meet at the picnic area by the parking lot.",
-    "city": "Oyster Bay",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Sagamore Hill National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour",
-    "Walk"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "b504b55ad42f",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "sahi",
-    "nps_category": "Regular Event",
-    "reservation_info": "No reservation is required.",
-    "contact": "SAHI_Information@nps.gov"
-   },
-   "id": "a1a748897bb918fd",
-   "summary": "Step back in time with the Roosevelts and hear stories about their lives at Sagamore Hill. This will be a 30-45 minute guided walk around the grounds of Sagamore Hill. The tour will begin at the picnic area, with stops…",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
-   "region_label": "Oyster Bay, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-30T11:00:00-04:00",
-   "end": "2026-10-30T11:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "bc3f833cf771b0ab",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-30T12:00:00-04:00",
-   "end": "2026-10-30T12:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "b8c8820c538df008",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "BF25317E-B8D9-A6BB-8B4D528D6AC905EB",
-   "title": "TR's Birthday Celebration Performance",
-   "start": "2026-10-30T13:00:00-04:00",
-   "end": "2026-10-30T13:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://teddyrooseveltshow.com",
-   "description": "Joe Wiegand, the fantastic Theodore Roosevelt re-enactor, is celebrating TR's 168th birthday with two special performances at Theodore Roosevelt Birthplace National Historic Site. The performances will be held at 1:00 and 2:30 on Friday, October 30th. These performances are free and require no advance sign-up. Questions? Email thrb_info@nps.gov.",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": false,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "28 East 20th Street, New York, NY 10003",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "event",
-   "categories": [
-    "Performance"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5c00cd342cbd",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Special Event",
-    "reservation_info": null,
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "16f87eb0ed149340",
-   "summary": "Joe Wiegand, the fantastic Theodore Roosevelt re-enactor, is celebrating TR's 168th birthday with two special performances at Theodore Roosevelt Birthplace National Historic Site. The performances will be held at 1:00…",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-30T14:00:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "6ef82acfa0168d41",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "BF25317E-B8D9-A6BB-8B4D528D6AC905EB",
-   "title": "TR's Birthday Celebration Performance",
-   "start": "2026-10-30T14:30:00-04:00",
-   "end": "2026-10-30T15:15:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://teddyrooseveltshow.com",
-   "description": "Joe Wiegand, the fantastic Theodore Roosevelt re-enactor, is celebrating TR's 168th birthday with two special performances at Theodore Roosevelt Birthplace National Historic Site. The performances will be held at 1:00 and 2:30 on Friday, October 30th. These performances are free and require no advance sign-up. Questions? Email thrb_info@nps.gov.",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": false,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "28 East 20th Street, New York, NY 10003",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "event",
-   "categories": [
-    "Performance"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5c00cd342cbd",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Special Event",
-    "reservation_info": null,
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "4b381f0ebac2115f",
-   "summary": "Joe Wiegand, the fantastic Theodore Roosevelt re-enactor, is celebrating TR's 168th birthday with two special performances at Theodore Roosevelt Birthplace National Historic Site. The performances will be held at 1:00…",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:45:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "351b7a42bfd80211",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
-   "region_label": "New York, NY"
-  },
   {
    "source": "nps",
    "source_event_id": "1F4824F4-F75A-F0BA-50FE72A58E97BABC",
@@ -441,7 +55,7 @@
     "Walk"
    ],
    "audiences": [],
-   "recurring": true,
+   "recurring": false,
    "series_id": "b504b55ad42f",
    "status": "scheduled",
    "relevance": "core",
@@ -458,7 +72,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -513,7 +127,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -568,7 +182,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -623,7 +237,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -678,7 +292,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -733,7 +347,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -788,7 +402,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -843,7 +457,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -898,7 +512,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -953,7 +567,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1008,7 +622,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1063,7 +677,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1118,7 +732,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1173,7 +787,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1228,7 +842,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1283,7 +897,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1338,7 +952,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1393,7 +1007,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1448,7 +1062,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1503,7 +1117,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1558,7 +1172,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1613,7 +1227,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1668,7 +1282,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1723,7 +1337,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1778,7 +1392,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1833,7 +1447,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1888,7 +1502,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1943,7 +1557,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -1998,7 +1612,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2053,7 +1667,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2108,7 +1722,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2163,7 +1777,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2218,7 +1832,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2273,7 +1887,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2328,7 +1942,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2383,7 +1997,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2438,7 +2052,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2493,7 +2107,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2548,7 +2162,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2603,7 +2217,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2658,7 +2272,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2713,7 +2327,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2768,7 +2382,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2823,7 +2437,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2878,7 +2492,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2933,7 +2547,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -2988,7 +2602,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3043,7 +2657,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3098,7 +2712,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3153,7 +2767,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3208,7 +2822,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3263,7 +2877,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3318,7 +2932,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3373,7 +2987,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3428,7 +3042,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3483,7 +3097,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3538,7 +3152,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3593,7 +3207,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3648,7 +3262,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3703,7 +3317,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3758,7 +3372,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3813,7 +3427,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3868,7 +3482,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3923,7 +3537,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -3978,7 +3592,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4033,7 +3647,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4088,7 +3702,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4143,7 +3757,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4198,7 +3812,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4253,7 +3867,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4308,7 +3922,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4363,7 +3977,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4418,7 +4032,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4473,7 +4087,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4528,7 +4142,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4583,7 +4197,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4638,7 +4252,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4693,7 +4307,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4748,7 +4362,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4803,7 +4417,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4858,7 +4472,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4913,7 +4527,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -4968,7 +4582,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5023,7 +4637,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5078,7 +4692,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5133,7 +4747,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5188,7 +4802,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5243,7 +4857,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5298,7 +4912,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5353,7 +4967,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5408,7 +5022,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5463,7 +5077,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5518,7 +5132,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5573,7 +5187,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5628,7 +5242,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5683,7 +5297,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5738,7 +5352,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5793,7 +5407,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5848,7 +5462,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5903,7 +5517,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -5958,7 +5572,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6013,7 +5627,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6068,7 +5682,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6123,7 +5737,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6178,7 +5792,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6233,7 +5847,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6288,7 +5902,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6343,7 +5957,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6398,7 +6012,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6453,7 +6067,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6508,7 +6122,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6563,7 +6177,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6618,7 +6232,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6673,7 +6287,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6728,7 +6342,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6783,7 +6397,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6838,7 +6452,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6893,7 +6507,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -6948,7 +6562,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7003,7 +6617,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7058,7 +6672,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7113,7 +6727,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7168,7 +6782,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7223,7 +6837,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7278,7 +6892,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7333,7 +6947,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7388,7 +7002,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7443,7 +7057,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7498,7 +7112,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7553,7 +7167,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7608,7 +7222,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7663,7 +7277,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7718,7 +7332,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7773,7 +7387,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7828,7 +7442,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7883,7 +7497,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7938,7 +7552,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -7993,7 +7607,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8048,7 +7662,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8103,7 +7717,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8158,7 +7772,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8213,7 +7827,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8268,7 +7882,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8323,7 +7937,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8378,7 +7992,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8433,7 +8047,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8488,7 +8102,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8543,7 +8157,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8598,7 +8212,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8653,7 +8267,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8708,7 +8322,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8763,7 +8377,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8818,7 +8432,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -8873,7 +8487,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -8928,7 +8542,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -8983,7 +8597,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9038,7 +8652,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9093,7 +8707,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9148,7 +8762,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9203,7 +8817,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -9258,7 +8872,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9313,7 +8927,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9368,7 +8982,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9423,7 +9037,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9478,7 +9092,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9533,7 +9147,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9588,7 +9202,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9643,7 +9257,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9698,7 +9312,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9753,7 +9367,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9808,7 +9422,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9863,7 +9477,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9918,7 +9532,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -9973,7 +9587,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10028,7 +9642,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10083,7 +9697,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10138,7 +9752,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10193,7 +9807,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10248,7 +9862,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10303,7 +9917,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10358,7 +9972,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10413,7 +10027,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10468,7 +10082,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10523,7 +10137,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10578,7 +10192,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10633,7 +10247,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10688,7 +10302,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10743,7 +10357,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10798,7 +10412,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10853,7 +10467,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10908,7 +10522,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -10963,7 +10577,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11018,7 +10632,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11073,7 +10687,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11128,7 +10742,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11183,7 +10797,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11238,7 +10852,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11293,7 +10907,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11348,7 +10962,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11403,7 +11017,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11458,7 +11072,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11513,7 +11127,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11568,7 +11182,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11623,7 +11237,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11678,7 +11292,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11733,7 +11347,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11788,7 +11402,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11843,7 +11457,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11898,7 +11512,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -11953,7 +11567,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12008,7 +11622,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12063,7 +11677,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12118,7 +11732,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12173,7 +11787,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12228,7 +11842,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12283,7 +11897,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12338,7 +11952,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12393,7 +12007,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12448,7 +12062,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12503,7 +12117,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12558,7 +12172,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12613,7 +12227,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12668,7 +12282,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12723,7 +12337,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12778,7 +12392,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12833,7 +12447,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12888,7 +12502,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12943,7 +12557,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -12998,7 +12612,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13053,7 +12667,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13108,7 +12722,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13163,7 +12777,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13218,7 +12832,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13273,7 +12887,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13328,7 +12942,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13383,7 +12997,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13438,7 +13052,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13493,7 +13107,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13548,7 +13162,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13603,7 +13217,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13658,7 +13272,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13713,7 +13327,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13768,7 +13382,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13823,7 +13437,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13878,7 +13492,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13933,7 +13547,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -13988,7 +13602,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14043,7 +13657,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14098,7 +13712,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14153,7 +13767,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14208,7 +13822,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14263,7 +13877,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14318,7 +13932,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14373,7 +13987,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14428,7 +14042,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14483,7 +14097,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14538,7 +14152,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14593,7 +14207,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14648,7 +14262,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14703,7 +14317,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14758,7 +14372,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14813,7 +14427,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14868,7 +14482,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14923,7 +14537,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -14978,7 +14592,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15033,7 +14647,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15088,7 +14702,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15143,7 +14757,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15198,7 +14812,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15253,7 +14867,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15308,7 +14922,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15363,7 +14977,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15418,7 +15032,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15473,7 +15087,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15528,7 +15142,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15583,7 +15197,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15638,7 +15252,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15693,7 +15307,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15748,7 +15362,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15803,7 +15417,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15858,7 +15472,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15913,7 +15527,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -15968,7 +15582,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16023,7 +15637,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16078,7 +15692,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16133,7 +15747,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16188,7 +15802,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16243,7 +15857,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16298,7 +15912,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16353,7 +15967,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16408,7 +16022,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16463,7 +16077,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16518,7 +16132,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16573,7 +16187,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16628,7 +16242,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16683,7 +16297,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16738,7 +16352,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16793,7 +16407,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16848,7 +16462,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16903,7 +16517,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -16958,7 +16572,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17013,7 +16627,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17068,7 +16682,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17123,7 +16737,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17178,7 +16792,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17233,7 +16847,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17288,7 +16902,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17343,7 +16957,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17398,7 +17012,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17453,7 +17067,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17508,7 +17122,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17563,7 +17177,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17618,7 +17232,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17673,7 +17287,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17728,7 +17342,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17783,7 +17397,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17838,7 +17452,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17893,7 +17507,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -17948,7 +17562,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18003,7 +17617,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18058,7 +17672,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18113,7 +17727,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18168,7 +17782,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18223,7 +17837,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18278,7 +17892,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18333,7 +17947,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18388,7 +18002,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18443,7 +18057,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18498,7 +18112,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18553,7 +18167,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18608,7 +18222,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18663,7 +18277,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18718,7 +18332,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18773,7 +18387,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18828,7 +18442,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18883,7 +18497,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18938,7 +18552,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -18993,7 +18607,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19048,7 +18662,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19103,7 +18717,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19158,7 +18772,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19213,7 +18827,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19268,7 +18882,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19323,7 +18937,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19378,7 +18992,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19433,7 +19047,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19488,7 +19102,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19543,7 +19157,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19598,7 +19212,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19653,7 +19267,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19708,7 +19322,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   },
   {
@@ -19763,7 +19377,227 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-02-28T11:00:00-05:00",
+   "end": "2027-02-28T11:45:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "3d64a8f8f71511d9",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-02-28T12:00:00-05:00",
+   "end": "2027-02-28T12:45:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "708f68af36a0b2f1",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-02-28T14:00:00-05:00",
+   "end": "2027-02-28T14:45:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "032385b2c4d69439",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-02-28T15:00:00-05:00",
+   "end": "2027-02-28T15:45:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "1b180c76ca0b5119",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
    "region_label": "New York, NY"
   }
  ]

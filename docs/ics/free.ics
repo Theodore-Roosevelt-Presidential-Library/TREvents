@@ -10,37 +10,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/free.ics
 BEGIN:VEVENT
-UID:16f87eb0ed149340@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
-DTSTART:20261030T170000Z
-DTEND:20261030T174500Z
-SUMMARY:TR's Birthday Celebration Performance
-DESCRIPTION:In person · Free\n\nJoe Wiegand\, the fantastic Theodore Roose
- velt re-enactor\, is celebrating TR's 168th birthday with two special perf
- ormances at Theodore Roosevelt Birthplace National Historic Site. The perf
- ormances will be held at 1:00…\n\nListed by National Park Service (Roose
- velt sites)\n\nhttps://teddyrooseveltshow.com
-LOCATION:Theodore Roosevelt Birthplace National Historic Site\, 28 East 20t
- h Street\, New York\, NY 10003\, New York\, NY
-URL:https://teddyrooseveltshow.com
-CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4b381f0ebac2115f@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
-DTSTART:20261030T183000Z
-DTEND:20261030T191500Z
-SUMMARY:TR's Birthday Celebration Performance
-DESCRIPTION:In person · Free\n\nJoe Wiegand\, the fantastic Theodore Roose
- velt re-enactor\, is celebrating TR's 168th birthday with two special perf
- ormances at Theodore Roosevelt Birthplace National Historic Site. The perf
- ormances will be held at 1:00…\n\nListed by National Park Service (Roose
- velt sites)\n\nhttps://teddyrooseveltshow.com
-LOCATION:Theodore Roosevelt Birthplace National Historic Site\, 28 East 20t
- h Street\, New York\, NY 10003\, New York\, NY
-URL:https://teddyrooseveltshow.com
-CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Event
+UID:e25f56de15a503c1@trevents.labs.trlibrary.com
+DTSTAMP:20261031T102505Z
+DTSTART:20261031T143000Z
+DTEND:20261031T151500Z
+SUMMARY:Guided Grounds Tour
+DESCRIPTION:In person · Free · This is a free guided walk of the Sagamore
+  Hill grounds.\n\nStep back in time with the Roosevelts and hear stories a
+ bout their lives at Sagamore Hill. This will be a 30-45 minute guided walk
+  around the grounds of Sagamore Hill. The tour will begin at the picnic ar
+ ea\, with stops…\n\nListed by National Park Service (Roosevelt sites)\n\
+ nhttps://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0BA
+ -50FE72A58E97BABC
+LOCATION:Sagamore Hill National Historic Site\, Meet at the picnic area by 
+ the parking lot.\, Oyster Bay\, NY
+URL:https://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0
+ BA-50FE72A58E97BABC
+CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Tour
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

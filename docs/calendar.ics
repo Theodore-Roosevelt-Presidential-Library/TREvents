@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/calendar.ics
 BEGIN:VEVENT
 UID:64ba7152fa9d98d8@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20260924T140000Z
 DTEND:20261121T220000Z
 SUMMARY:Seeking Vendor Applications
@@ -29,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:deaf69bdf8503c92@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261001T140000Z
 DTEND:20261031T210000Z
 SUMMARY:October State-of-the-Month
@@ -46,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72ffbb8a6f6a8fea@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270111
 SUMMARY:In the Room: Sixty Years on the Front Lines of History
@@ -67,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b593655a04f7a34e@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261024T130000Z
 DTEND:20261101T220000Z
 SUMMARY:Early Voting
@@ -84,42 +84,28 @@ CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:16f87eb0ed149340@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
-DTSTART:20261030T170000Z
-DTEND:20261030T174500Z
-SUMMARY:TR's Birthday Celebration Performance
-DESCRIPTION:In person · Free\n\nJoe Wiegand\, the fantastic Theodore Roose
- velt re-enactor\, is celebrating TR's 168th birthday with two special perf
- ormances at Theodore Roosevelt Birthplace National Historic Site. The perf
- ormances will be held at 1:00…\n\nListed by National Park Service (Roose
- velt sites)\n\nhttps://teddyrooseveltshow.com
-LOCATION:Theodore Roosevelt Birthplace National Historic Site\, 28 East 20t
- h Street\, New York\, NY 10003\, New York\, NY
-URL:https://teddyrooseveltshow.com
-CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4b381f0ebac2115f@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
-DTSTART:20261030T183000Z
-DTEND:20261030T191500Z
-SUMMARY:TR's Birthday Celebration Performance
-DESCRIPTION:In person · Free\n\nJoe Wiegand\, the fantastic Theodore Roose
- velt re-enactor\, is celebrating TR's 168th birthday with two special perf
- ormances at Theodore Roosevelt Birthplace National Historic Site. The perf
- ormances will be held at 1:00…\n\nListed by National Park Service (Roose
- velt sites)\n\nhttps://teddyrooseveltshow.com
-LOCATION:Theodore Roosevelt Birthplace National Historic Site\, 28 East 20t
- h Street\, New York\, NY 10003\, New York\, NY
-URL:https://teddyrooseveltshow.com
-CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Event
+UID:e25f56de15a503c1@trevents.labs.trlibrary.com
+DTSTAMP:20261031T102505Z
+DTSTART:20261031T143000Z
+DTEND:20261031T151500Z
+SUMMARY:Guided Grounds Tour
+DESCRIPTION:In person · Free · This is a free guided walk of the Sagamore
+  Hill grounds.\n\nStep back in time with the Roosevelts and hear stories a
+ bout their lives at Sagamore Hill. This will be a 30-45 minute guided walk
+  around the grounds of Sagamore Hill. The tour will begin at the picnic ar
+ ea\, with stops…\n\nListed by National Park Service (Roosevelt sites)\n\
+ nhttps://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0BA
+ -50FE72A58E97BABC
+LOCATION:Sagamore Hill National Historic Site\, Meet at the picnic area by 
+ the parking lot.\, Oyster Bay\, NY
+URL:https://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0
+ BA-50FE72A58E97BABC
+CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Tour
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b140a4faadf34a1f@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261101T150000Z
 DTEND:20261130T220000Z
 SUMMARY:November State-of-the-Month
@@ -135,8 +121,28 @@ CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cf66310934ba8cc4@trevents.labs.trlibrary.com
+DTSTAMP:20261031T102505Z
+DTSTART:20261105T013000Z
+DTEND:20261105T030000Z
+SUMMARY:Virtual Learning Session: Reconstruction and the Second Founding
+DESCRIPTION:Virtual\n\nJoin the National Constitution Center and the Theodo
+ re Roosevelt Presidential Library for “Reconstruction and the Second Fou
+ nding\,” a virtual professional learning session exploring how Reconstru
+ ction transformed the…\n\nListed by Theodore Roosevelt Presidential Libr
+ ary\n\nhttps://www.trlibrary.com/calendar/special-event/virtual-learning-s
+ ession-reconstruction-and-second-founding
+LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
+ \, ND
+URL:https://www.trlibrary.com/calendar/special-event/virtual-learning-sessi
+ on-reconstruction-and-second-founding
+GEO:46.9167713;-103.5486042
+CATEGORIES:Theodore Roosevelt Presidential Library,Virtual,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:99d06511ea4d0e39@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261110T133000Z
 DTEND:20261110T163000Z
 SUMMARY:A Fall Walk on Theodore Roosevelt Island - In Person
@@ -154,7 +160,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a93c0a22b3b99ce6@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261111T133000Z
 DTEND:20261111T163000Z
 SUMMARY:A Fall Walk on Theodore Roosevelt Island - In Person
@@ -172,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d1116d3985318de5@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261112T013000Z
 DTEND:20261112T030000Z
 SUMMARY:America the Beautiful Film Screening
@@ -192,7 +198,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f575037323896121@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261112T210000Z
 DTEND:20261112T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -212,7 +218,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:70f7fc837941d63c@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261113T210000Z
 DTEND:20261113T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -232,7 +238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8443e4065a4c3818@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261114T210000Z
 DTEND:20261114T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -252,7 +258,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76f6494dd8c5ce92@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261115T013000Z
 DTEND:20261115T030000Z
 SUMMARY:America the Beautiful Film Screening
@@ -272,7 +278,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04ae2586c35ac375@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261115T210000Z
 DTEND:20261115T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -292,7 +298,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1d54928c15db8b@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261117T210000Z
 DTEND:20261117T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -312,7 +318,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3e1ddb6a084882c2@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261118T210000Z
 DTEND:20261118T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -332,7 +338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0288b1ca96fbf295@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261119T210000Z
 DTEND:20261119T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -352,7 +358,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:283ab210f69eeff0@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261120T210000Z
 DTEND:20261120T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -372,7 +378,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e80a6d67304a410e@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261121T013000Z
 DTEND:20261121T030000Z
 SUMMARY:America the Beautiful Film Screening
@@ -392,7 +398,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58c11e82894330db@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261121T210000Z
 DTEND:20261121T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -412,7 +418,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b98d6f7e7037c7b@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261122T210000Z
 DTEND:20261122T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -432,7 +438,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34857a0388cbe6ba@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261124T210000Z
 DTEND:20261124T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -452,7 +458,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2e29ab57841cd36@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261125T210000Z
 DTEND:20261125T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -472,7 +478,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6534120cd5a496b0@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261130T234500Z
 DTEND:20261201T011500Z
 SUMMARY:The Panama Canal: Power\, Politics\, and Ambition
@@ -489,7 +495,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39b8e81eaa0660d7@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261210T230000Z
 DTEND:20261211T030000Z
 SUMMARY:Elkhorn Evenings
@@ -507,7 +513,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31ad179101be5590@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261217T230000Z
 DTEND:20261218T030000Z
 SUMMARY:Elkhorn Evenings
@@ -525,7 +531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eaff044a89f80ff0@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261218T010000Z
 DTEND:20261218T020000Z
 SUMMARY:Visit with Santa Claus
@@ -543,7 +549,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2d912fbcca474663@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261219T200000Z
 DTEND:20261219T210000Z
 SUMMARY:Visit with Santa Claus
@@ -561,7 +567,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7d2ef1c9099aa8d@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20270124T150000Z
 DTEND:20270124T170000Z
 SUMMARY:Butchery Workshop
@@ -579,7 +585,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2d12fe3d2a61c7@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20270604T120000Z
 DTEND:20270614T210000Z
 SUMMARY:Theodore Roosevelt Association Strenuous Life Adventure Africa Expe

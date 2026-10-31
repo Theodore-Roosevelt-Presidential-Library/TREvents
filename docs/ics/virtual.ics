@@ -10,8 +10,28 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/virtual.ics
 BEGIN:VEVENT
+UID:cf66310934ba8cc4@trevents.labs.trlibrary.com
+DTSTAMP:20261031T102505Z
+DTSTART:20261105T013000Z
+DTEND:20261105T030000Z
+SUMMARY:Virtual Learning Session: Reconstruction and the Second Founding
+DESCRIPTION:Virtual\n\nJoin the National Constitution Center and the Theodo
+ re Roosevelt Presidential Library for “Reconstruction and the Second Fou
+ nding\,” a virtual professional learning session exploring how Reconstru
+ ction transformed the…\n\nListed by Theodore Roosevelt Presidential Libr
+ ary\n\nhttps://www.trlibrary.com/calendar/special-event/virtual-learning-s
+ ession-reconstruction-and-second-founding
+LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
+ \, ND
+URL:https://www.trlibrary.com/calendar/special-event/virtual-learning-sessi
+ on-reconstruction-and-second-founding
+GEO:46.9167713;-103.5486042
+CATEGORIES:Theodore Roosevelt Presidential Library,Virtual,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6534120cd5a496b0@trevents.labs.trlibrary.com
-DTSTAMP:20261030T102505Z
+DTSTAMP:20261031T102505Z
 DTSTART:20261130T234500Z
 DTEND:20261201T011500Z
 SUMMARY:The Panama Canal: Power\, Politics\, and Ambition
