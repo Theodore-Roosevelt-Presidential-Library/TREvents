@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "events": [
   {
    "source": "trsite",
@@ -45,52 +45,6 @@
    },
    "id": "64ba7152fa9d98d8",
    "summary": "The TR Site is proud to announce its inaugural “Sleigh Shop at the Carriage House” — sponsored by Wegmans. This two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through…",
-   "source_name": "Theodore Roosevelt Inaugural Site"
-  },
-  {
-   "source": "trsite",
-   "source_event_id": "october-state-of-the-month",
-   "title": "October State-of-the-Month",
-   "start": "2026-10-01T10:00:00-04:00",
-   "end": "2026-10-31T17:00:00-04:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.trsite.org/events/october-state-of-the-month",
-   "description": "Each month, we (randomly) choose one state, and in-person visitors from that state will receive a special 10% discount on all bookstore purchases.\n\nOctober’s State-of-the-Month is . . .\n\nVIRGINIA!",
-   "image": "https://www.trsite.org/app/uploads/2026/09/2026.10_StateOfTheMo_600X400.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Inaugural Site",
-    "address": "641 Delaware Ave",
-    "city": "Buffalo",
-    "region": "NY",
-    "postal_code": "14202",
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Inaugural Site",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5a9c46055ddf",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "date_text": "October 1, 10:00 am - October 31, 5:00 pm"
-   },
-   "id": "deaf69bdf8503c92",
-   "summary": "Each month, we (randomly) choose one state, and in-person visitors from that state will receive a special 10% discount on all bookstore purchases. October’s State-of-the-Month is . . . VIRGINIA!",
    "source_name": "Theodore Roosevelt Inaugural Site"
   },
   {

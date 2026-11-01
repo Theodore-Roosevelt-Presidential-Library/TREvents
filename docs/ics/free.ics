@@ -9,24 +9,4 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/free.ics
-BEGIN:VEVENT
-UID:e25f56de15a503c1@trevents.labs.trlibrary.com
-DTSTAMP:20261031T102505Z
-DTSTART:20261031T143000Z
-DTEND:20261031T151500Z
-SUMMARY:Guided Grounds Tour
-DESCRIPTION:In person · Free · This is a free guided walk of the Sagamore
-  Hill grounds.\n\nStep back in time with the Roosevelts and hear stories a
- bout their lives at Sagamore Hill. This will be a 30-45 minute guided walk
-  around the grounds of Sagamore Hill. The tour will begin at the picnic ar
- ea\, with stops…\n\nListed by National Park Service (Roosevelt sites)\n\
- nhttps://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0BA
- -50FE72A58E97BABC
-LOCATION:Sagamore Hill National Historic Site\, Meet at the picnic area by 
- the parking lot.\, Oyster Bay\, NY
-URL:https://www.nps.gov/planyourvisit/event-details.htm?id=1F4824F4-F75A-F0
- BA-50FE72A58E97BABC
-CATEGORIES:National Park Service (Roosevelt sites),In person,Free,Tour
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
