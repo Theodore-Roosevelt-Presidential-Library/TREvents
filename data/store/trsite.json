@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01",
+ "fetched": "2026-11-02",
  "events": [
   {
    "source": "trsite",
@@ -45,52 +45,6 @@
    },
    "id": "64ba7152fa9d98d8",
    "summary": "The TR Site is proud to announce its inaugural “Sleigh Shop at the Carriage House” — sponsored by Wegmans. This two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through…",
-   "source_name": "Theodore Roosevelt Inaugural Site"
-  },
-  {
-   "source": "trsite",
-   "source_event_id": "early-voting",
-   "title": "Early Voting",
-   "start": "2026-10-24T09:00:00-04:00",
-   "end": "2026-11-01T17:00:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.trsite.org/events/early-voting",
-   "description": "The TR Site is proud to partner with the Erie County Board of Elections to serve as an Early Voting Site for the 2026 General Election.\n\nAny registered Erie County (NY) voter — regardless of where they live — can vote early at the TR Site. Questions about voter eligibility should be directed to the Erie Co. Board of Elections (716) 858-8891.\n\nThe TR Site will also host a dedicated and colorful voting booth as part of the Kids Voting USA initiative, a nonpartisan voter education program committed to creating lifelong voting habits in children.\n\n**PLEASE NOTE** Early Voting Hours are as follows:\n\nSaturday, October 24th thru Sunday, November 1st\n\nWeekdays (Mon -Fri) | 12 Noon – 9:00 pm\n\nWeekends (Sat & Sun) | 9:00 am – 5:00 pm",
-   "image": "https://www.trsite.org/app/uploads/2026/01/2026_EarlyVoting_WebsiteEvent-1.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": "Must be a registered voter in Erie Co, NY",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Theodore Roosevelt Inaugural Site",
-    "address": "641 Delaware Ave",
-    "city": "Buffalo",
-    "region": "NY",
-    "postal_code": "14202",
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Theodore Roosevelt Inaugural Site",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "d1990ee67e0d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "date_text": "October 24, 9:00 am - November 1, 5:00 pm"
-   },
-   "id": "b593655a04f7a34e",
-   "summary": "The TR Site is proud to partner with the Erie County Board of Elections to serve as an Early Voting Site for the 2026 General Election. Any registered Erie County (NY) voter — regardless of where they live — can vote…",
    "source_name": "Theodore Roosevelt Inaugural Site"
   },
   {
