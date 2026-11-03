@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T10:21:51+00:00",
+ "generated": "2026-11-03T10:21:44+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -14,9 +14,9 @@
   "count": 0,
   "error": "JSONDecodeError: Unterminated string starting at: line 1 column 3304887 (char 3304886)",
   "last_success": "2026-10-31",
-  "checked": "2026-11-02T10:21:37+00:00",
+  "checked": "2026-11-03T10:21:37+00:00",
   "using_cached_from": null,
-  "seconds": 6.9
+  "seconds": 3.9
  },
  "count": 0,
  "events": []
