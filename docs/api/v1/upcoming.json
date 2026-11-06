@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T10:23:53+00:00",
+ "generated": "2026-11-06T10:21:54+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND"
   },
   {
@@ -162,15 +162,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-11-05T11:00:00-05:00",
-   "end": "2026-11-05T11:45:00-05:00",
+   "start": "2026-11-06T11:00:00-05:00",
+   "end": "2026-11-06T11:45:00-05:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -212,70 +212,14 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "f2d8da740bbc457b",
+   "id": "08a6f12ffcf2f5c4",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "New York, NY",
    "occurrences": 348
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-05T15:00:00-07:00",
-   "end": "2026-11-05T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "70526410310b48b6",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
-   "region_label": "Medora, ND",
-   "occurrences": 87
   },
   {
    "source": "trpl",
@@ -329,9 +273,65 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 20
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2026-11-06T15:00:00-07:00",
+   "end": "2026-11-06T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "70b26d3e08239bb9",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-06",
+   "region_label": "Medora, ND",
+   "occurrences": 86
   },
   {
    "source": "trpl",
@@ -385,7 +385,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 20
   },
@@ -441,7 +441,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Washington, DC"
   },
   {
@@ -496,7 +496,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Washington, DC"
   },
   {
@@ -551,7 +551,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -604,7 +604,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Washington, DC"
   },
   {
@@ -659,7 +659,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -715,7 +715,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -771,7 +771,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -827,7 +827,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND"
   },
   {
@@ -879,7 +879,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "National"
   }
  ]

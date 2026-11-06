@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T10:23:53+00:00",
+ "generated": "2026-11-06T10:21:54+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -12,11 +12,11 @@
   "region": "Washington, DC",
   "ok": false,
   "count": 0,
-  "error": "JSONDecodeError: Unterminated string starting at: line 1 column 57228 (char 57227)",
+  "error": "JSONDecodeError: Expecting ',' delimiter: line 1 column 3583964 (char 3583963)",
   "last_success": "2026-10-31",
-  "checked": "2026-11-05T10:21:49+00:00",
+  "checked": "2026-11-06T10:21:33+00:00",
   "using_cached_from": null,
-  "seconds": 119.8
+  "seconds": 3.6
  },
  "count": 0,
  "events": []
