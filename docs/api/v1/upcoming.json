@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T10:22:47+00:00",
+ "generated": "2026-11-08T10:21:50+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND"
   },
   {
@@ -162,15 +162,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-11-07T11:00:00-05:00",
-   "end": "2026-11-07T11:45:00-05:00",
+   "start": "2026-11-08T11:00:00-05:00",
+   "end": "2026-11-08T11:45:00-05:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -212,77 +212,21 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "ed8ed94cd1f0b5d2",
+   "id": "31f07867eefe8247",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "New York, NY",
-   "occurrences": 348
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "tr-deep-dive-tour",
-   "title": "T.R. Deep-Dive Tour",
-   "start": "2026-11-07T11:30:00-07:00",
-   "end": "2026-11-07T12:45:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "description": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique stories only objects can tell.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Image-5--1-.png.webp?h=3c1e4160",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "5b44e4f8f95d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor"
-   },
-   "id": "22cc88077916b95c",
-   "summary": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
-   "region_label": "Medora, ND",
-   "occurrences": 19
+   "occurrences": 344
   },
   {
    "source": "trpl",
    "source_event_id": "architecture-and-sustainability-tour",
    "title": "Architecture and Sustainability Tour",
-   "start": "2026-11-07T14:00:00-07:00",
-   "end": "2026-11-07T15:15:00-07:00",
+   "start": "2026-11-08T11:30:00-07:00",
+   "end": "2026-11-08T12:45:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
@@ -324,21 +268,77 @@
     "room": "Lobby",
     "setting": "Indoor & Outdoor"
    },
-   "id": "437fbe08169f28cc",
+   "id": "ed86763419c9304a",
    "summary": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and…",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
-   "occurrences": 20
+   "occurrences": 19
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "tr-deep-dive-tour",
+   "title": "T.R. Deep-Dive Tour",
+   "start": "2026-11-08T14:00:00-07:00",
+   "end": "2026-11-08T15:15:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
+   "description": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique stories only objects can tell.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Image-5--1-.png.webp?h=3c1e4160",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 25.0,
+   "price_max": 25.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "tour",
+   "categories": [
+    "Specialty Tour"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "5b44e4f8f95d",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Lobby",
+    "setting": "Indoor"
+   },
+   "id": "b6e6e434dd207bbf",
+   "summary": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique…",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-08",
+   "region_label": "Medora, ND",
+   "occurrences": 18
   },
   {
    "source": "trpl",
    "source_event_id": "free-final-hour",
    "title": "Free Final Hour",
-   "start": "2026-11-07T17:00:00-07:00",
-   "end": "2026-11-07T18:00:00-07:00",
+   "start": "2026-11-08T17:00:00-07:00",
+   "end": "2026-11-08T18:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
@@ -380,14 +380,14 @@
     "room": "Accessibility",
     "setting": "Indoor"
    },
-   "id": "78050f965ff7f71e",
+   "id": "00241e113f7d5b64",
    "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
-   "occurrences": 85
+   "occurrences": 84
   },
   {
    "source": "smithsonian",
@@ -441,7 +441,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Washington, DC"
   },
   {
@@ -496,7 +496,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Washington, DC"
   },
   {
@@ -551,7 +551,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -604,7 +604,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Washington, DC"
   },
   {
@@ -659,7 +659,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -715,7 +715,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -771,7 +771,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -827,7 +827,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND"
   },
   {
@@ -879,7 +879,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "National"
   }
  ]
