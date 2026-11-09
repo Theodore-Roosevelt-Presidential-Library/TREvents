@@ -1,11 +1,66 @@
 {
- "generated": "2026-11-08T10:21:50+00:00",
+ "generated": "2026-11-09T10:21:28+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
  "month": "2027-03",
- "count": 20,
+ "count": 27,
  "events": [
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-02T15:00:00-07:00",
+   "end": "2027-03-02T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "563ec473a17f8fc3",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
+  },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -58,7 +113,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -113,7 +168,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -168,7 +223,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -223,8 +278,63 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-03T15:00:00-07:00",
+   "end": "2027-03-03T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "455df44db53e73cb",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
   },
   {
    "source": "nps",
@@ -278,7 +388,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -333,7 +443,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -388,7 +498,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -443,8 +553,63 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-04T15:00:00-07:00",
+   "end": "2027-03-04T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "0d3dbb2d573c57f8",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
   },
   {
    "source": "nps",
@@ -498,7 +663,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -553,7 +718,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -608,7 +773,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -663,8 +828,63 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-05T15:00:00-07:00",
+   "end": "2027-03-05T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "77536e92505687e0",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
   },
   {
    "source": "nps",
@@ -718,7 +938,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -773,7 +993,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -828,7 +1048,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -883,8 +1103,63 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-06T17:00:00-07:00",
+   "end": "2027-03-06T18:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "667f3a471b93c238",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
   },
   {
    "source": "nps",
@@ -938,7 +1213,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -993,7 +1268,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -1048,7 +1323,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
   },
   {
@@ -1103,8 +1378,118 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-07T17:00:00-07:00",
+   "end": "2027-03-07T18:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "030f82d239a56fd6",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-09T15:00:00-07:00",
+   "end": "2027-03-09T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "4b965914da88b355",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "region_label": "Medora, ND"
   }
  ]
 }
