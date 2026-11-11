@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/trsite.ics
 BEGIN:VEVENT
 UID:64ba7152fa9d98d8@trevents.labs.trlibrary.com
-DTSTAMP:20261110T102324Z
+DTSTAMP:20261111T102204Z
 DTSTART:20260924T140000Z
 DTEND:20261121T220000Z
 SUMMARY:Seeking Vendor Applications
@@ -28,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b140a4faadf34a1f@trevents.labs.trlibrary.com
-DTSTAMP:20261110T102324Z
+DTSTAMP:20261111T102204Z
 DTSTART:20261101T150000Z
 DTEND:20261130T220000Z
 SUMMARY:November State-of-the-Month
@@ -41,6 +41,23 @@ LOCATION:Theodore Roosevelt Inaugural Site\, 641 Delaware Ave\, Buffalo\, N
  Y
 URL:https://www.trsite.org/events/november-state-of-the-month
 CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e589b9c6890e92@trevents.labs.trlibrary.com
+DTSTAMP:20261111T102204Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Sleigh Shop Holiday Market
+DESCRIPTION:In person · Paid\n\nYou are Cordially Invited . . . Please joi
+ n the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * 
+ Presented by Wegmans * This two-day artisan market will take place on Smal
+ l Business Saturday (Sat\, Nov 28)…\n\nListed by Theodore Roosevelt Inau
+ gural Site\n\nhttps://www.trsite.org/events/sleigh-shop
+LOCATION:Theodore Roosevelt Inaugural Site\, 641 Delaware Ave\, Buffalo\, N
+ Y
+URL:https://www.trsite.org/events/sleigh-shop
+CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

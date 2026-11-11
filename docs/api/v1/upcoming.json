@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T10:23:24+00:00",
+ "generated": "2026-11-11T10:22:04+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND"
   },
   {
@@ -162,119 +162,8 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Buffalo, NY"
-  },
-  {
-   "source": "smithsonian",
-   "source_event_id": "206829765",
-   "title": "A Fall Walk on Theodore Roosevelt Island - In Person",
-   "start": "2026-11-10T08:30:00-05:00",
-   "end": "2026-11-10T11:30:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206829765",
-   "description": "Enjoy a fall morning walk on a natural oasis in the Potomac River with Melanie Choukas-Bradley, the author of Finding Solace at Theodore Roosevelt Island. The nearly 2-mile path follows Theodore Roosevelt Island’s shore and moves deep into the swamp and tidal inlet along the boardwalk where willows, bald cypresses, and cattails frame views of Washington, D.C. Choukas-Bradley gives an overview of the landscape’s mix of trees, wildflowers, birds, and other wildlife and highlights the island’s history and the legacy of the conservationist president it memorializes.",
-   "image": "https://www.trumba.com/i/DgBpoh8D-I5CHhOJ7NfxwV-f.jpg",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://smithsonianassociates.org/ticketing/programs/walk-theodore-roosevelt-island?utm_source=&utm_medium=&utm_campaign=&utm_content=&promo=276223",
-   "venue": {
-    "name": null,
-    "address": "Tour meets in the Theodore Roosevelt Island parking lot next to the footbridge.",
-    "city": null,
-    "region": null,
-    "postal_code": null,
-    "country": null,
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Smithsonian Associates",
-   "kind": "event",
-   "categories": [
-    "Gallery Talks & Tours"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "741b341ff5ee",
-   "status": "scheduled",
-   "relevance": "matched",
-   "matched_terms": [
-    "roosevelt island",
-    "theodore roosevelt"
-   ],
-   "accessibility": null,
-   "extra": {
-    "related_exhibition": null
-   },
-   "id": "99d06511ea4d0e39",
-   "summary": "Enjoy a fall morning walk on a natural oasis in the Potomac River with Melanie Choukas-Bradley, the author of Finding Solace at Theodore Roosevelt Island. The nearly 2-mile path follows Theodore Roosevelt Island’s shore…",
-   "source_name": "Smithsonian Institution",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
-   "region_label": "Washington, DC"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-10T15:00:00-07:00",
-   "end": "2026-11-10T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "84ef589e636e8b7c",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
-   "region_label": "Medora, ND",
-   "occurrences": 91
   },
   {
    "source": "smithsonian",
@@ -328,7 +217,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Washington, DC"
   },
   {
@@ -383,9 +272,65 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "New York, NY",
-   "occurrences": 344
+   "occurrences": 348
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2026-11-11T15:00:00-07:00",
+   "end": "2026-11-11T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "ac026766c65c2ed8",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-11",
+   "region_label": "Medora, ND",
+   "occurrences": 91
   },
   {
    "source": "trpl",
@@ -439,7 +384,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -495,7 +440,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 18
   },
@@ -551,9 +496,59 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 17
+  },
+  {
+   "source": "trsite",
+   "source_event_id": "sleigh-shop",
+   "title": "Sleigh Shop Holiday Market",
+   "start": "2026-11-29T10:00:00-05:00",
+   "end": "2026-11-29T17:00:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.trsite.org/events/sleigh-shop",
+   "description": "You are Cordially Invited . . .  Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans *\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. The Sleigh Shop will be open from 10am to 5pm each day. Our local vendors will be offering an array of unique gift ideas for everyone on your list, and the TR Site’s Carriage House will be decorated for the season by the 8th District Federated Garden Clubs of NYS.\n\nParticipating vendors include:\n\nChits & Chat\n\nDarling Desa Designs\n\n8th District Garden Clubs\n\nIndipendants Jewelry\n\nLove Life Do Stuff\n\nPaintings by Barbara Brown\n\nPivot Party Solutions\n\n. . . and more!\n\nOur “Poinsettia Bar” will also have a selection of festive holiday cocktails & mocktails available for purchase.\n\nAdmission is $6 per person (over 18), and includes entry to the Sleigh Shop, and a tour of the museum (first come, first serve).\n\nIn addition, the TR Site’s bookstore will be offering a 25% discount all weekend.\n\nBe sure to stop by and fill your sleigh with unique gifts!!",
+   "image": "https://www.trsite.org/app/uploads/2026/11/C@TCH26_SleighShop_Website.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 6.0,
+   "price_max": 6.0,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Theodore Roosevelt Inaugural Site",
+    "address": "641 Delaware Ave",
+    "city": "Buffalo",
+    "region": "NY",
+    "postal_code": "14202",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Theodore Roosevelt Inaugural Site",
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "2fdc08cbc46e",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "date_text": "November 29, 10:00 am - 5:00 pm"
+   },
+   "id": "a3e589b9c6890e92",
+   "summary": "You are Cordially Invited . . . Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans * This two-day artisan market will take place on Small Business Saturday (Sat, Nov 28)…",
+   "source_name": "Theodore Roosevelt Inaugural Site",
+   "also_listed": [],
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "region_label": "Buffalo, NY"
   },
   {
    "source": "smithsonian",
@@ -604,7 +599,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Washington, DC"
   },
   {
@@ -659,7 +654,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -715,7 +710,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -771,7 +766,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -827,7 +822,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "Medora, ND"
   },
   {
@@ -879,7 +874,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "region_label": "National"
   }
  ]
