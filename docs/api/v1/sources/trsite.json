@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T10:23:04+00:00",
+ "generated": "2026-11-13T10:22:01+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -13,9 +13,9 @@
   "ok": true,
   "count": 4,
   "error": null,
-  "last_success": "2026-11-12",
-  "checked": "2026-11-12T10:21:27+00:00",
-  "seconds": 2.7
+  "last_success": "2026-11-13",
+  "checked": "2026-11-13T10:21:29+00:00",
+  "seconds": 3.1
  },
  "count": 3,
  "events": [
@@ -66,7 +66,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "region_label": "Buffalo, NY"
   },
   {
@@ -116,7 +116,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "region_label": "Buffalo, NY"
   },
   {
@@ -128,7 +128,7 @@
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.trsite.org/events/sleigh-shop",
-   "description": "You are Cordially Invited . . .  Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans *\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. The Sleigh Shop will be open from 10am to 5pm each day. Our local vendors will be offering an array of unique gift ideas for everyone on your list, and the TR Site’s Carriage House will be decorated for the season by the 8th District Federated Garden Clubs of NYS.\n\nParticipating vendors include:\n\nChits & Chat\n\nDarling Desa Designs\n\n8th District Garden Clubs\n\nIndipendants Jewelry\n\nLove Life Do Stuff\n\nPaintings by Barbara Brown\n\nPivot Party Solutions\n\n. . . and more!\n\nOur “Poinsettia Bar” will also have a selection of festive holiday cocktails & mocktails available for purchase.\n\nAdmission is $6 per person (over 18), and includes entry to the Sleigh Shop, and a tour of the museum (first come, first serve).\n\nIn addition, the TR Site’s bookstore will be offering a 25% discount all weekend.\n\nBe sure to stop by and fill your sleigh with unique gifts!!",
+   "description": "You are Cordially Invited . . .  Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans *\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. The Sleigh Shop will be open from 10am to 5pm each day. Our local vendors will be offering an array of unique gift ideas for everyone on your list, and the TR Site’s Carriage House will be decorated for the season by the 8th District Federated Garden Clubs of NYS.\n\nParticipating vendors include:\n\nChits & Chat\n\nDarling Desa Designs\n\n8th District Garden Clubs\n\nIndipendants Jewelry\n\nLove Life Do Stuff\n\nPaintings by Barbara Brown\n\nPivot Party Solutions\n\n. . . and more!\n\nOur “Poinsettia Bar” will also have a selection of festive holiday cocktails available for purchase.\n\nAdmission is $6 per person (over 18), and includes entry to the Sleigh Shop, and a tour of the museum (first come, first serve).\n\nIn addition, the TR Site’s bookstore will be offering a 25% discount all weekend.\n\nBe sure to stop by and fill your sleigh with unique gifts!!",
    "image": "https://www.trsite.org/app/uploads/2026/11/C@TCH26_SleighShop_Website.png",
    "attendance": "in_person",
    "online_url": null,
@@ -166,7 +166,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "region_label": "Buffalo, NY"
   }
  ]
