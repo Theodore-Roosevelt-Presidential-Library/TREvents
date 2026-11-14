@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T10:22:01+00:00",
+ "generated": "2026-11-14T10:22:46+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND"
   },
   {
@@ -162,15 +162,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-11-13T11:00:00-05:00",
-   "end": "2026-11-13T11:45:00-05:00",
+   "start": "2026-11-14T11:00:00-05:00",
+   "end": "2026-11-14T11:45:00-05:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -212,182 +212,14 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "0ea232fa4509cc04",
+   "id": "0ebd79a7c2106814",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "New York, NY",
    "occurrences": 348
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "america-beautiful-film-screening",
-   "title": "America the Beautiful Film Screening",
-   "start": "2026-11-13T14:00:00-07:00",
-   "end": "2026-11-13T15:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 5.0,
-   "price_max": 7.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "event",
-   "categories": [
-    "Special Event"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "a665d78a144e",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Auditorium",
-    "setting": "Indoor"
-   },
-   "id": "70f7fc837941d63c",
-   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
-   "region_label": "Medora, ND",
-   "occurrences": 13
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "architecture-and-sustainability-tour",
-   "title": "Architecture and Sustainability Tour",
-   "start": "2026-11-13T14:00:00-07:00",
-   "end": "2026-11-13T15:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "description": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and architecture shaped by the surrounding landscape.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg.webp?h=7ae0bea3",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "537182e7ada6",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor & Outdoor"
-   },
-   "id": "89266eb5f680f644",
-   "summary": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
-   "region_label": "Medora, ND",
-   "occurrences": 18
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-13T15:00:00-07:00",
-   "end": "2026-11-13T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "01931590bd1ac67d",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
-   "region_label": "Medora, ND",
-   "occurrences": 91
   },
   {
    "source": "trpl",
@@ -441,20 +273,188 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND",
    "occurrences": 17
   },
   {
    "source": "trpl",
-   "source_event_id": "holiday-tree-lighting",
-   "title": "Holiday Tree Lighting",
+   "source_event_id": "america-beautiful-film-screening",
+   "title": "America the Beautiful Film Screening",
+   "start": "2026-11-14T14:00:00-07:00",
+   "end": "2026-11-14T15:15:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
+   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 7.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "a665d78a144e",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Auditorium",
+    "setting": "Indoor"
+   },
+   "id": "8443e4065a4c3818",
+   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-14",
+   "region_label": "Medora, ND",
+   "occurrences": 12
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "architecture-and-sustainability-tour",
+   "title": "Architecture and Sustainability Tour",
+   "start": "2026-11-14T14:00:00-07:00",
+   "end": "2026-11-14T15:15:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
+   "description": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and architecture shaped by the surrounding landscape.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg.webp?h=7ae0bea3",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 25.0,
+   "price_max": 25.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "tour",
+   "categories": [
+    "Specialty Tour"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "537182e7ada6",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Lobby",
+    "setting": "Indoor & Outdoor"
+   },
+   "id": "3e90911f28da5e83",
+   "summary": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and…",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-14",
+   "region_label": "Medora, ND",
+   "occurrences": 17
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2026-11-14T17:00:00-07:00",
+   "end": "2026-11-14T18:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "6de54138d0e76976",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-14",
+   "region_label": "Medora, ND",
+   "occurrences": 91
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "holiday-open-house",
+   "title": "Holiday Open House",
    "start": "2026-11-20T17:30:00-07:00",
    "end": "2026-11-20T18:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/holiday-tree-lighting",
-   "description": "Celebrate the start of the holiday season at the Theodore Roosevelt Presidential Library! Join friends and neighbors for a community tree lighting featuring holiday displays designed by JLG, the Library’s architect of record. Celebrating North Dakota’s diverse industries and cultures, these distinctive trees offer a festive tribute to the people and places of our state.",
+   "url": "https://www.trlibrary.com/calendar/special-event/holiday-open-house",
+   "description": "Celebrate the start of the holiday season at the Theodore Roosevelt Presidential Library! Join friends and neighbors for a community gathering featuring holiday displays designed by JLG, the Library’s architect of record. Celebrating North Dakota’s diverse industries and cultures, these distinctive trees offer a festive tribute to the people and places of our state.",
    "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-11/AI-TRPL-winter-night.jpg.webp?h=bbdcf370",
    "attendance": "in_person",
    "online_url": null,
@@ -463,7 +463,7 @@
    "price_min": null,
    "price_max": null,
    "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/holiday-tree-lighting",
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/holiday-open-house",
    "venue": {
     "name": "Theodore Roosevelt Presidential Library",
     "address": "3410 Chateau Rd",
@@ -483,7 +483,7 @@
     "All Ages"
    ],
    "recurring": false,
-   "series_id": "5779afcce287",
+   "series_id": "806769293837",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
@@ -492,12 +492,12 @@
     "room": "Lobby",
     "setting": "Indoor"
    },
-   "id": "53348a62a50e1a0d",
-   "summary": "Celebrate the start of the holiday season at the Theodore Roosevelt Presidential Library! Join friends and neighbors for a community tree lighting featuring holiday displays designed by JLG, the Library’s architect of…",
+   "id": "02cab96689599bcc",
+   "summary": "Celebrate the start of the holiday season at the Theodore Roosevelt Presidential Library! Join friends and neighbors for a community gathering featuring holiday displays designed by JLG, the Library’s architect of…",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND"
   },
   {
@@ -547,7 +547,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Buffalo, NY"
   },
   {
@@ -599,7 +599,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Washington, DC"
   },
   {
@@ -654,7 +654,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -710,7 +710,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -766,7 +766,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -822,7 +822,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "Medora, ND"
   },
   {
@@ -874,7 +874,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "region_label": "National"
   }
  ]
