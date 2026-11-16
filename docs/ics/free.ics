@@ -9,4 +9,23 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/free.ics
+BEGIN:VEVENT
+UID:df2f300f3f646e80@trevents.labs.trlibrary.com
+DTSTAMP:20261116T102711Z
+DTSTART:20261125T220000Z
+DTEND:20261125T230000Z
+SUMMARY:Theodore Roosevelt and American Empire Tour
+DESCRIPTION:In person · Free\n\nA 60-minute guided tour of how Theodore Ro
+ osevelt’s beliefs about earning one’s place shaped America’s rise as
+  a world power\, and who paid the price.\n\nListed by Theodore Roosevelt P
+ residential Library\n\nhttps://www.trlibrary.com/calendar/specialty-tour/t
+ heodore-roosevelt-and-american-empire-tour
+LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
+ \, ND
+URL:https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-an
+ d-american-empire-tour
+GEO:46.9167713;-103.5486042
+CATEGORIES:Theodore Roosevelt Presidential Library,In person,Free,Tour
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
