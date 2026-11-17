@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-16T10:27:11+00:00",
+ "generated": "2026-11-17T10:23:10+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
- "count": 17,
+ "count": 20,
  "events": [
   {
    "source": "trsite",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND"
   },
   {
@@ -162,7 +162,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Buffalo, NY"
   },
   {
@@ -217,7 +217,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 9
   },
@@ -273,9 +273,9 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
-   "occurrences": 90
+   "occurrences": 91
   },
   {
    "source": "nps",
@@ -329,9 +329,59 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "New York, NY",
-   "occurrences": 340
+   "occurrences": 344
+  },
+  {
+   "source": "fosh",
+   "source_event_id": "6159980f-5c48-4f1a-9d01-af9bad54dc02",
+   "title": "Lecture: Theodore Roosevelt and the Expedition to British East Africa",
+   "start": "2026-11-19T19:00:00-05:00",
+   "end": "2026-11-19T20:30:00-05:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://friendsofsagamorehill.org/events",
+   "description": "Join us for a lively discussion about TR's Smithsonian sponsored expedition to East Africa. To register use this link: https://www.zeffy.com/en-US/ticketing/theodore-roosevelt-in-british-east-africa",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Zoom (free event; registration required)",
+    "address": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Friends of Sagamore Hill",
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "3526189f3371",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "time_text": "7pm-8:30pm"
+   },
+   "id": "5ad418acc5967193",
+   "summary": "Join us for a lively discussion about TR's Smithsonian sponsored expedition to East Africa. To register use this link: https://www.zeffy.com/en-US/ticketing/theodore-roosevelt-in-british-east-africa",
+   "source_name": "Friends of Sagamore Hill",
+   "also_listed": [],
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "region_label": "Oyster Bay, NY"
   },
   {
    "source": "trpl",
@@ -385,7 +435,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -441,7 +491,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND"
   },
   {
@@ -496,7 +546,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -552,8 +602,58 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND"
+  },
+  {
+   "source": "fosh",
+   "source_event_id": "863443a2-573c-494d-ad70-e24bb8b4f860",
+   "title": "Thanksgiving Day!",
+   "start": "2026-11-26",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/New_York",
+   "url": "https://friendsofsagamorehill.org/events",
+   "description": "Buildings are closed.",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Sagamore Hill NHS",
+    "address": "20 Sagamore Hill Road, Oyster Bay, NY",
+    "city": "Oyster Bay",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Friends of Sagamore Hill",
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "924a6f174973",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "time_text": "All Day"
+   },
+   "id": "d98212d72e6232e6",
+   "summary": "Buildings are closed.",
+   "source_name": "Friends of Sagamore Hill",
+   "also_listed": [],
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "region_label": "Oyster Bay, NY"
   },
   {
    "source": "trsite",
@@ -602,7 +702,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Buffalo, NY"
   },
   {
@@ -654,7 +754,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Washington, DC"
   },
   {
@@ -709,7 +809,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -765,7 +865,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -821,9 +921,59 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND",
    "occurrences": 2
+  },
+  {
+   "source": "fosh",
+   "source_event_id": "b6a5c7c3-e593-448f-aa5a-500213b5d712",
+   "title": "Christmas Day!",
+   "start": "2026-12-25",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/New_York",
+   "url": "https://friendsofsagamorehill.org/events",
+   "description": "Buildings are closed!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Sagamore Hill NHS",
+    "address": "20 Sagamore Hill Road, Oyster Bay, NY",
+    "city": "Oyster Bay",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Friends of Sagamore Hill",
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "41c33f7177f2",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "time_text": "All Day"
+   },
+   "id": "160942b1b108910d",
+   "summary": "Buildings are closed!",
+   "source_name": "Friends of Sagamore Hill",
+   "also_listed": [],
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "region_label": "Oyster Bay, NY"
   },
   {
    "source": "trpl",
@@ -877,7 +1027,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "Medora, ND"
   },
   {
@@ -929,7 +1079,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "region_label": "National"
   }
  ]
