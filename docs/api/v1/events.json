@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-18T10:22:18+00:00",
+ "generated": "2026-11-19T10:28:11+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
- "count": 504,
+ "count": 503,
  "events": [
   {
    "source": "trsite",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -162,338 +162,8 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-11-18T11:00:00-05:00",
-   "end": "2026-11-18T11:45:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "433910a43fb6bf66",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-11-18T12:00:00-05:00",
-   "end": "2026-11-18T12:45:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "3b09f5c264de7384",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-11-18T14:00:00-05:00",
-   "end": "2026-11-18T14:45:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "1f56987565f3e026",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "america-beautiful-film-screening",
-   "title": "America the Beautiful Film Screening",
-   "start": "2026-11-18T14:00:00-07:00",
-   "end": "2026-11-18T15:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 5.0,
-   "price_max": 7.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "event",
-   "categories": [
-    "Special Event"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "a665d78a144e",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Auditorium",
-    "setting": "Indoor"
-   },
-   "id": "3e1ddb6a084882c2",
-   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "Medora, ND"
-  },
-  {
-   "source": "nps",
-   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
-   "title": "House Tour",
-   "start": "2026-11-18T15:00:00-05:00",
-   "end": "2026-11-18T15:45:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
-   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": "House tours are free.",
-   "price_min": null,
-   "price_max": null,
-   "registration_required": true,
-   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
-   "venue": {
-    "name": "Theodore Roosevelt Birthplace National Historic Site",
-    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
-    "city": "New York",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": 40.738672,
-    "lon": -73.988962
-   },
-   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
-   "kind": "tour",
-   "categories": [
-    "Guided Tour"
-   ],
-   "audiences": [],
-   "recurring": true,
-   "series_id": "82f0541ffe89",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "park_code": "thrb",
-    "nps_category": "Regular Event",
-    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
-    "contact": "thrb_info@nps.gov"
-   },
-   "id": "fa641fad934dd327",
-   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
-   "source_name": "National Park Service (Roosevelt sites)",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "New York, NY"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-18T15:00:00-07:00",
-   "end": "2026-11-18T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "20d9d2fa79dcf6ae",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
-   "region_label": "Medora, ND"
   },
   {
    "source": "nps",
@@ -547,7 +217,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -602,7 +272,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -657,7 +327,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -712,7 +382,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -767,7 +437,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -822,7 +492,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -872,7 +542,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -927,7 +597,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -982,7 +652,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1037,7 +707,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1092,7 +762,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1147,7 +817,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1202,7 +872,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1257,7 +927,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1312,7 +982,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1367,7 +1037,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1422,7 +1092,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1477,7 +1147,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1532,7 +1202,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1587,7 +1257,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1642,7 +1312,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1697,7 +1367,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1752,7 +1422,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1807,7 +1477,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1862,7 +1532,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -1917,7 +1587,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -1972,7 +1642,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2027,7 +1697,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2082,7 +1752,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2137,7 +1807,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2192,7 +1862,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2247,7 +1917,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2302,7 +1972,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2357,7 +2027,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2412,7 +2082,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2467,7 +2137,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2522,7 +2192,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2577,7 +2247,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2632,7 +2302,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2687,7 +2357,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2742,7 +2412,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -2792,7 +2462,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -2847,7 +2517,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2902,7 +2572,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -2957,7 +2627,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3012,7 +2682,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3067,7 +2737,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3122,7 +2792,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3177,7 +2847,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3232,7 +2902,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3287,7 +2957,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3342,7 +3012,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3397,7 +3067,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3452,7 +3122,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3507,7 +3177,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3562,7 +3232,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3617,7 +3287,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3672,7 +3342,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3727,7 +3397,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3782,7 +3452,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3794,7 +3464,7 @@
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.trsite.org/events/sleigh-shop",
-   "description": "You are Cordially Invited . . .  Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans *\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. The Sleigh Shop will be open from 10am to 5pm each day. Our local vendors will be offering an array of unique gift ideas for everyone on your list, and the TR Site’s Carriage House will be decorated for the season by the 8th District Federated Garden Clubs of NYS.\n\nParticipating vendors include:\n\nChits & Chat\n\nDarling Desa Designs\n\n8th District Garden Clubs\n\nIndipendants Jewelry\n\nLove Life Do Stuff\n\nPaintings by Barbara Brown\n\nPivot Party Solutions\n\n. . . and more!\n\nOur “Poinsettia Bar” will also have a selection of festive holiday cocktails available for purchase.\n\nAdmission is $6 per person (over 18), and includes entry to the Sleigh Shop, and a tour of the museum (first come, first serve).\n\nIn addition, the TR Site’s bookstore will be offering a 25% discount all weekend.\n\nBe sure to stop by and fill your sleigh with unique gifts!!",
+   "description": "You are Cordially Invited . . .  Please join the TR Site for our Inaugural “Sleigh Shop at the Carriage House” * Presented by Wegmans *\n\nThis two-day artisan market will take place on Small Business Saturday (Sat, Nov 28) and continue through Sunday, November 29th. The Sleigh Shop will be open from 10am to 5pm each day. Our local vendors will be offering an array of unique gift ideas for everyone on your list, and the TR Site’s Carriage House will be decorated for the season by the 8th District Federated Garden Clubs of NYS.\n\nParticipating vendors include:\n\nChits & Chat\n\nDarling Desa Designs\n\n8th District Garden Clubs\n\nIndipendants Jewelry\n\nLove Life Do Stuff\n\nPaintings by Barbara Brown\n\nPivot Party Solutions\n\n. . . and more!\n\nOur “Poinsettia Bar” will also have a selection of festive holiday cocktails available for purchase.\n\nAdmission is $6 per person (age 19+); FREE for guests 18 & under. Your ticket includes entry to the Sleigh Shop . . . plus, holiday decorations by the 8th District Federated Garden Clubs! Tours of the museum are available on a first-come, first-serve basis (subject to tour capacity). No refunds.\n\nIn addition, the TR Site’s bookstore will be offering a 25% discount all weekend.\n\nBe sure to stop by and fill your sleigh with unique gifts!!",
    "image": "https://www.trsite.org/app/uploads/2026/11/C@TCH26_SleighShop_Website.png",
    "attendance": "in_person",
    "online_url": null,
@@ -3832,7 +3502,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -3887,7 +3557,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -3942,7 +3612,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -3997,7 +3667,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4052,7 +3722,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4107,7 +3777,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -4162,7 +3832,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4217,7 +3887,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -4269,7 +3939,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Washington, DC"
   },
   {
@@ -4324,7 +3994,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4379,7 +4049,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4434,7 +4104,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4489,7 +4159,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4544,7 +4214,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -4599,7 +4269,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4654,7 +4324,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4709,7 +4379,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4764,7 +4434,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4819,7 +4489,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -4874,7 +4544,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4929,7 +4599,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -4984,7 +4654,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5039,7 +4709,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5094,7 +4764,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5149,7 +4819,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5204,7 +4874,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5259,7 +4929,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5314,7 +4984,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5369,7 +5039,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5424,7 +5094,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5479,7 +5149,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5534,7 +5204,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5589,7 +5259,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5644,7 +5314,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5699,7 +5369,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5754,7 +5424,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5809,7 +5479,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5864,7 +5534,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -5919,7 +5589,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -5974,7 +5644,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6029,7 +5699,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6084,7 +5754,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6139,7 +5809,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6194,7 +5864,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -6249,7 +5919,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6304,7 +5974,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6359,7 +6029,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6414,7 +6084,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6469,7 +6139,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -6524,7 +6194,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -6579,7 +6249,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6634,7 +6304,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6689,7 +6359,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6744,7 +6414,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -6799,7 +6469,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6854,7 +6524,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -6909,7 +6579,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -6964,7 +6634,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7019,7 +6689,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7074,7 +6744,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7129,7 +6799,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7184,7 +6854,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7239,7 +6909,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7294,7 +6964,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7349,7 +7019,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7404,7 +7074,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7459,7 +7129,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7514,7 +7184,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7569,7 +7239,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7624,7 +7294,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7679,7 +7349,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -7734,7 +7404,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7789,7 +7459,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7844,7 +7514,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7899,7 +7569,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -7954,7 +7624,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8009,7 +7679,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8064,7 +7734,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8119,7 +7789,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8174,7 +7844,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8229,7 +7899,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8284,7 +7954,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8339,7 +8009,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8394,7 +8064,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8449,7 +8119,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8504,7 +8174,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8559,7 +8229,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8614,7 +8284,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8669,7 +8339,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8724,7 +8394,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8779,7 +8449,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8834,7 +8504,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8889,7 +8559,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -8944,7 +8614,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -8999,7 +8669,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9054,7 +8724,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9109,7 +8779,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9164,7 +8834,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9219,7 +8889,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9274,7 +8944,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9329,7 +8999,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9384,7 +9054,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9439,7 +9109,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9494,7 +9164,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9549,7 +9219,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9604,7 +9274,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9659,7 +9329,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9714,7 +9384,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9769,7 +9439,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9824,7 +9494,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9879,7 +9549,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -9934,7 +9604,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -9989,7 +9659,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10044,7 +9714,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10099,7 +9769,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10154,7 +9824,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10209,7 +9879,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10264,7 +9934,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10319,7 +9989,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -10369,7 +10039,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -10424,7 +10094,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -10479,7 +10149,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10534,7 +10204,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10589,7 +10259,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10644,7 +10314,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10699,7 +10369,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -10754,7 +10424,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10809,7 +10479,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -10864,7 +10534,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10919,7 +10589,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -10974,7 +10644,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11029,7 +10699,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11084,7 +10754,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11139,7 +10809,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11194,7 +10864,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11249,7 +10919,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11304,7 +10974,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11359,7 +11029,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11414,7 +11084,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11469,7 +11139,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11524,7 +11194,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11579,7 +11249,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11634,7 +11304,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11689,7 +11359,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11744,7 +11414,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -11799,7 +11469,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -11854,7 +11524,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -11909,7 +11579,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -11964,7 +11634,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12019,7 +11689,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12074,7 +11744,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12129,7 +11799,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12184,7 +11854,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -12239,7 +11909,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -12294,7 +11964,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Buffalo, NY"
   },
   {
@@ -12349,7 +12019,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12404,7 +12074,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12459,7 +12129,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12514,7 +12184,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12569,7 +12239,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -12624,7 +12294,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12679,7 +12349,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12734,7 +12404,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12789,7 +12459,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12844,7 +12514,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -12899,7 +12569,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -12954,7 +12624,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13009,7 +12679,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13064,7 +12734,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13119,7 +12789,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -13174,7 +12844,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13229,7 +12899,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13284,7 +12954,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13339,7 +13009,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13394,7 +13064,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -13449,7 +13119,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13504,7 +13174,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13559,7 +13229,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13614,7 +13284,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13669,7 +13339,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -13724,7 +13394,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13779,7 +13449,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13834,7 +13504,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13889,7 +13559,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -13944,7 +13614,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -13999,7 +13669,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14054,7 +13724,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14109,7 +13779,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14164,7 +13834,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14219,7 +13889,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -14274,7 +13944,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14329,7 +13999,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14384,7 +14054,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14439,7 +14109,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14494,7 +14164,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -14549,7 +14219,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14604,7 +14274,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14659,7 +14329,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14714,7 +14384,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14769,7 +14439,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -14824,7 +14494,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14879,7 +14549,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14934,7 +14604,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -14989,7 +14659,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15044,7 +14714,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -15099,7 +14769,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15154,7 +14824,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15209,7 +14879,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15264,7 +14934,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15319,7 +14989,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -15374,7 +15044,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15429,7 +15099,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15484,7 +15154,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15539,7 +15209,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15594,7 +15264,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -15649,7 +15319,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15704,7 +15374,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15759,7 +15429,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15814,7 +15484,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15869,7 +15539,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -15924,7 +15594,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -15979,7 +15649,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16034,7 +15704,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16089,7 +15759,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16144,7 +15814,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -16199,7 +15869,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16254,7 +15924,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16309,7 +15979,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16364,7 +16034,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16419,7 +16089,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -16474,7 +16144,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16529,7 +16199,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16584,7 +16254,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16639,7 +16309,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16694,7 +16364,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -16749,7 +16419,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16804,7 +16474,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16859,7 +16529,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16914,7 +16584,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -16969,7 +16639,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -17024,7 +16694,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -17079,7 +16749,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17134,7 +16804,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17189,7 +16859,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17244,7 +16914,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17299,7 +16969,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -17354,7 +17024,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17409,7 +17079,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17464,7 +17134,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17519,7 +17189,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17574,7 +17244,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -17629,7 +17299,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17684,7 +17354,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17739,7 +17409,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17794,7 +17464,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17849,7 +17519,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -17904,7 +17574,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -17959,7 +17629,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18014,7 +17684,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18069,7 +17739,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18124,7 +17794,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -18179,7 +17849,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18234,7 +17904,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18289,7 +17959,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18344,7 +18014,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18399,7 +18069,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -18454,7 +18124,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18509,7 +18179,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18564,7 +18234,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18619,7 +18289,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18674,7 +18344,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -18729,7 +18399,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18784,7 +18454,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18839,7 +18509,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18894,7 +18564,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -18949,7 +18619,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -19004,7 +18674,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19059,7 +18729,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19114,7 +18784,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19169,7 +18839,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19224,7 +18894,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -19279,7 +18949,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19334,7 +19004,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19389,7 +19059,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19444,7 +19114,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19499,7 +19169,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -19554,7 +19224,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19609,7 +19279,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19664,7 +19334,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19719,7 +19389,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19774,7 +19444,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -19829,7 +19499,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19884,7 +19554,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19939,7 +19609,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -19994,7 +19664,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20049,7 +19719,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -20104,7 +19774,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20159,7 +19829,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20214,7 +19884,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20269,7 +19939,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20324,7 +19994,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -20379,7 +20049,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20434,7 +20104,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20489,7 +20159,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20544,7 +20214,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20599,7 +20269,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -20654,7 +20324,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20709,7 +20379,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20764,7 +20434,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20819,7 +20489,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20874,7 +20544,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -20929,7 +20599,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -20984,7 +20654,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21039,7 +20709,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21094,7 +20764,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21149,7 +20819,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -21204,7 +20874,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21259,7 +20929,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21314,7 +20984,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21369,7 +21039,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21424,7 +21094,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -21479,7 +21149,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21534,7 +21204,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21589,7 +21259,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21644,7 +21314,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21699,7 +21369,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -21754,7 +21424,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21809,7 +21479,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21864,7 +21534,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21919,7 +21589,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -21974,7 +21644,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -22029,7 +21699,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22084,7 +21754,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22139,7 +21809,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22194,7 +21864,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22249,7 +21919,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -22304,7 +21974,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22359,7 +22029,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22414,7 +22084,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22469,7 +22139,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22524,7 +22194,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -22579,7 +22249,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22634,7 +22304,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22689,7 +22359,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22744,7 +22414,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22799,7 +22469,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -22854,7 +22524,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22909,7 +22579,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -22964,7 +22634,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23019,7 +22689,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23074,7 +22744,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -23129,7 +22799,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23184,7 +22854,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23239,7 +22909,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23294,7 +22964,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23349,7 +23019,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -23404,7 +23074,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23459,7 +23129,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23514,7 +23184,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23569,7 +23239,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23624,7 +23294,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -23679,7 +23349,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23734,7 +23404,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23789,7 +23459,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23844,7 +23514,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -23899,7 +23569,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -23954,7 +23624,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24009,7 +23679,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24064,7 +23734,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24119,7 +23789,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24174,7 +23844,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -24229,7 +23899,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -24284,7 +23954,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24339,7 +24009,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24394,7 +24064,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24449,7 +24119,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24504,7 +24174,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -24559,7 +24229,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24614,7 +24284,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24669,7 +24339,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24724,7 +24394,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24779,7 +24449,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -24834,7 +24504,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24889,7 +24559,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24944,7 +24614,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -24999,7 +24669,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25054,7 +24724,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -25109,7 +24779,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25164,7 +24834,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25219,7 +24889,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25274,7 +24944,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25329,7 +24999,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -25384,7 +25054,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25439,7 +25109,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25494,7 +25164,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25549,7 +25219,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25604,7 +25274,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -25659,7 +25329,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -25714,7 +25384,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25769,7 +25439,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25824,7 +25494,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25879,7 +25549,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -25934,7 +25604,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -25989,7 +25659,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26044,7 +25714,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26099,7 +25769,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26154,7 +25824,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26209,7 +25879,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -26264,7 +25934,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26319,7 +25989,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26374,7 +26044,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26429,7 +26099,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26484,7 +26154,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -26539,7 +26209,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26594,7 +26264,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26649,7 +26319,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26704,7 +26374,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26759,7 +26429,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -26814,7 +26484,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26869,7 +26539,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26924,7 +26594,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -26979,7 +26649,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27034,7 +26704,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -27089,7 +26759,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -27144,7 +26814,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27199,7 +26869,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27254,7 +26924,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27309,7 +26979,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27364,7 +27034,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -27419,7 +27089,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27474,7 +27144,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27529,7 +27199,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27584,7 +27254,7 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "New York, NY"
   },
   {
@@ -27639,7 +27309,282 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
+   "region_label": "Medora, ND"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-03-19T11:00:00-04:00",
+   "end": "2027-03-19T11:45:00-04:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "f1b8adf3ced22beb",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-03-19T12:00:00-04:00",
+   "end": "2027-03-19T12:45:00-04:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "fd57f2f1b0ba4c2a",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-03-19T14:00:00-04:00",
+   "end": "2027-03-19T14:45:00-04:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "30dbc42cb6c99ff1",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "nps",
+   "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
+   "title": "House Tour",
+   "start": "2027-03-19T15:00:00-04:00",
+   "end": "2027-03-19T15:45:00-04:00",
+   "all_day": false,
+   "timezone": "America/New_York",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
+   "description": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": "House tours are free.",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://www.nps.gov/thrb/planyourvisit/guidedtours.htm",
+   "venue": {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "address": "The tour is inside the brownstone at 28 E 20th St, New York, NY 10029",
+    "city": "New York",
+    "region": "NY",
+    "postal_code": null,
+    "country": "US",
+    "lat": 40.738672,
+    "lon": -73.988962
+   },
+   "organizer": "Theodore Roosevelt Birthplace National Historic Site",
+   "kind": "tour",
+   "categories": [
+    "Guided Tour"
+   ],
+   "audiences": [],
+   "recurring": true,
+   "series_id": "82f0541ffe89",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "park_code": "thrb",
+    "nps_category": "Regular Event",
+    "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
+    "contact": "thrb_info@nps.gov"
+   },
+   "id": "66786bd0f1dbdd60",
+   "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
+   "source_name": "National Park Service (Roosevelt sites)",
+   "also_listed": [],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "region_label": "New York, NY"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-03-19T15:00:00-06:00",
+   "end": "2027-03-19T16:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "69ef05b3212c8686",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
    "region_label": "Medora, ND"
   },
   {
@@ -27691,7 +27636,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "region_label": "National"
   }
  ]
