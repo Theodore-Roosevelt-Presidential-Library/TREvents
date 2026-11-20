@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T10:28:11+00:00",
+ "generated": "2026-11-20T10:23:17+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -12,11 +12,11 @@
   "region": "Washington, DC",
   "ok": false,
   "count": 0,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Read timed out. (read timeout=120)",
+  "error": "JSONDecodeError: Unterminated string starting at: line 1 column 44261 (char 44260)",
   "last_success": "2026-11-17",
-  "checked": "2026-11-19T10:24:04+00:00",
+  "checked": "2026-11-20T10:21:51+00:00",
   "using_cached_from": null,
-  "seconds": 124.3
+  "seconds": 80.2
  },
  "count": 0,
  "events": []

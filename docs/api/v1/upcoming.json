@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-19T10:28:11+00:00",
+ "generated": "2026-11-20T10:23:17+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
- "count": 20,
+ "count": 19,
  "events": [
   {
    "source": "trsite",
@@ -52,7 +52,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Buffalo, NY"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND"
   },
   {
@@ -162,15 +162,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-11-19T11:00:00-05:00",
-   "end": "2026-11-19T11:45:00-05:00",
+   "start": "2026-11-20T11:00:00-05:00",
+   "end": "2026-11-20T11:45:00-05:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -212,12 +212,12 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "6cf9e8b0d24bb6af",
+   "id": "327c0e93709ba236",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "New York, NY",
    "occurrences": 348
   },
@@ -225,8 +225,8 @@
    "source": "trpl",
    "source_event_id": "america-beautiful-film-screening",
    "title": "America the Beautiful Film Screening",
-   "start": "2026-11-19T14:00:00-07:00",
-   "end": "2026-11-19T15:15:00-07:00",
+   "start": "2026-11-20T14:00:00-07:00",
+   "end": "2026-11-20T15:15:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
@@ -268,120 +268,14 @@
     "room": "Auditorium",
     "setting": "Indoor"
    },
-   "id": "0288b1ca96fbf295",
+   "id": "283ab210f69eeff0",
    "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
-   "occurrences": 7
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-19T15:00:00-07:00",
-   "end": "2026-11-19T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "1c50af6045cc2a4a",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
-   "region_label": "Medora, ND",
-   "occurrences": 91
-  },
-  {
-   "source": "fosh",
-   "source_event_id": "6159980f-5c48-4f1a-9d01-af9bad54dc02",
-   "title": "Lecture: Theodore Roosevelt and the Expedition to British East Africa",
-   "start": "2026-11-19T19:00:00-05:00",
-   "end": "2026-11-19T20:30:00-05:00",
-   "all_day": false,
-   "timezone": "America/New_York",
-   "url": "https://friendsofsagamorehill.org/events",
-   "description": "Join us for a lively discussion about TR's Smithsonian sponsored expedition to East Africa. To register use this link: https://www.zeffy.com/en-US/ticketing/theodore-roosevelt-in-british-east-africa",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Zoom (free event; registration required)",
-    "address": null,
-    "city": null,
-    "region": null,
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Friends of Sagamore Hill",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "3526189f3371",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "time_text": "7pm-8:30pm"
-   },
-   "id": "5ad418acc5967193",
-   "summary": "Join us for a lively discussion about TR's Smithsonian sponsored expedition to East Africa. To register use this link: https://www.zeffy.com/en-US/ticketing/theodore-roosevelt-in-british-east-africa",
-   "source_name": "Friends of Sagamore Hill",
-   "also_listed": [],
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
-   "region_label": "Oyster Bay, NY"
+   "occurrences": 6
   },
   {
    "source": "trpl",
@@ -435,9 +329,65 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
    "occurrences": 15
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2026-11-20T15:00:00-07:00",
+   "end": "2026-11-20T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "728287912e7eba32",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-20",
+   "region_label": "Medora, ND",
+   "occurrences": 91
   },
   {
    "source": "trpl",
@@ -491,7 +441,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND"
   },
   {
@@ -546,7 +496,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
    "occurrences": 15
   },
@@ -602,7 +552,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND"
   },
   {
@@ -652,7 +602,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -702,7 +652,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Buffalo, NY"
   },
   {
@@ -754,7 +704,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Washington, DC"
   },
   {
@@ -809,7 +759,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -865,7 +815,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -921,7 +871,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -972,7 +922,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -1027,7 +977,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "Medora, ND"
   },
   {
@@ -1079,7 +1029,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "region_label": "National"
   }
  ]
