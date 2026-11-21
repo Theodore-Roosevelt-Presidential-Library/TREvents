@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/calendar.ics
 BEGIN:VEVENT
 UID:64ba7152fa9d98d8@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20260924T140000Z
 DTEND:20261121T220000Z
 SUMMARY:Seeking Vendor Applications
@@ -29,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72ffbb8a6f6a8fea@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270111
 SUMMARY:In the Room: Sixty Years on the Front Lines of History
@@ -50,7 +50,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b140a4faadf34a1f@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261101T150000Z
 DTEND:20261130T220000Z
 SUMMARY:November State-of-the-Month
@@ -66,66 +66,8 @@ CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:283ab210f69eeff0@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
-DTSTART:20261120T210000Z
-DTEND:20261120T221500Z
-SUMMARY:America the Beautiful Film Screening
-DESCRIPTION:In person · Paid\n\nSoaring mountains\, open plains\, deserts\
- , rivers and wetlands\, and the conservation movement Theodore Roosevelt s
- et in motion to protect them. Narrated by Kelsey Grammer\, America the Bea
- utiful comes to the Library's…\n\nListed by Theodore Roosevelt President
- ial Library\n\nhttps://www.trlibrary.com/calendar/special-event/america-be
- autiful-film-screening
-LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
- \, ND
-URL:https://www.trlibrary.com/calendar/special-event/america-beautiful-film
- -screening
-GEO:46.9167713;-103.5486042
-CATEGORIES:Theodore Roosevelt Presidential Library,In person,Paid,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:02cab96689599bcc@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
-DTSTART:20261121T003000Z
-DTEND:20261121T010000Z
-SUMMARY:Holiday Open House
-DESCRIPTION:In person\n\nCelebrate the start of the holiday season at the T
- heodore Roosevelt Presidential Library! Join friends and neighbors for a c
- ommunity gathering featuring holiday displays designed by JLG\, the Librar
- y’s architect of…\n\nListed by Theodore Roosevelt Presidential Library
- \n\nhttps://www.trlibrary.com/calendar/special-event/holiday-open-house
-LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
- \, ND
-URL:https://www.trlibrary.com/calendar/special-event/holiday-open-house
-GEO:46.9167713;-103.5486042
-CATEGORIES:Theodore Roosevelt Presidential Library,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e80a6d67304a410e@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
-DTSTART:20261121T013000Z
-DTEND:20261121T030000Z
-SUMMARY:America the Beautiful Film Screening
-DESCRIPTION:In person · Paid\n\nSoaring mountains\, open plains\, deserts\
- , rivers and wetlands\, and the conservation movement Theodore Roosevelt s
- et in motion to protect them. Narrated by Kelsey Grammer\, America the Bea
- utiful comes to the Library's…\n\nListed by Theodore Roosevelt President
- ial Library\n\nhttps://www.trlibrary.com/calendar/special-event/america-be
- autiful-film-screening
-LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
- \, ND
-URL:https://www.trlibrary.com/calendar/special-event/america-beautiful-film
- -screening
-GEO:46.9167713;-103.5486042
-CATEGORIES:Theodore Roosevelt Presidential Library,In person,Paid,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:58c11e82894330db@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261121T210000Z
 DTEND:20261121T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -145,7 +87,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b98d6f7e7037c7b@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261122T210000Z
 DTEND:20261122T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -165,7 +107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34857a0388cbe6ba@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261124T210000Z
 DTEND:20261124T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -185,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2e29ab57841cd36@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261125T210000Z
 DTEND:20261125T221500Z
 SUMMARY:America the Beautiful Film Screening
@@ -205,7 +147,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df2f300f3f646e80@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261125T220000Z
 DTEND:20261125T230000Z
 SUMMARY:Theodore Roosevelt and American Empire Tour
@@ -224,7 +166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d98212d72e6232e6@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Thanksgiving Day!
@@ -238,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3e589b9c6890e92@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Sleigh Shop Holiday Market
@@ -255,7 +197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6534120cd5a496b0@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261130T234500Z
 DTEND:20261201T011500Z
 SUMMARY:The Panama Canal: Power\, Politics\, and Ambition
@@ -272,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39b8e81eaa0660d7@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261210T230000Z
 DTEND:20261211T030000Z
 SUMMARY:Elkhorn Evenings
@@ -290,7 +232,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31ad179101be5590@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261217T230000Z
 DTEND:20261218T030000Z
 SUMMARY:Elkhorn Evenings
@@ -308,7 +250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eaff044a89f80ff0@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261218T010000Z
 DTEND:20261218T020000Z
 SUMMARY:Visit with Santa Claus
@@ -326,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2d912fbcca474663@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20261219T200000Z
 DTEND:20261219T210000Z
 SUMMARY:Visit with Santa Claus
@@ -344,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:160942b1b108910d@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas Day!
@@ -358,7 +300,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7d2ef1c9099aa8d@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20270124T150000Z
 DTEND:20270124T170000Z
 SUMMARY:Butchery Workshop
@@ -376,7 +318,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2d12fe3d2a61c7@trevents.labs.trlibrary.com
-DTSTAMP:20261120T102317Z
+DTSTAMP:20261121T102229Z
 DTSTART:20270604T120000Z
 DTEND:20270614T210000Z
 SUMMARY:Theodore Roosevelt Association Strenuous Life Adventure Africa Expe
