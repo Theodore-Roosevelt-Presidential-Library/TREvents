@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:22:29+00:00",
+ "generated": "2026-11-22T10:21:50+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": [
@@ -11,11 +11,11 @@
    "type": "core",
    "region": "Medora, ND",
    "ok": true,
-   "count": 135,
+   "count": 131,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:05+00:00",
-   "seconds": 22.3
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:20:49+00:00",
+   "seconds": 22.1
   },
   {
    "id": "nps",
@@ -25,11 +25,11 @@
    "type": "core",
    "region": "NY, DC, ND",
    "ok": true,
-   "count": 360,
+   "count": 356,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:28+00:00",
-   "seconds": 1.1
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:11+00:00",
+   "seconds": 1.2
   },
   {
    "id": "trsite",
@@ -39,10 +39,10 @@
    "type": "core",
    "region": "Buffalo, NY",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:29+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:13+00:00",
    "seconds": 2.6
   },
   {
@@ -55,9 +55,9 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:31+00:00",
-   "seconds": 7.6
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:15+00:00",
+   "seconds": 15.0
   },
   {
    "id": "tra",
@@ -69,8 +69,8 @@
    "ok": true,
    "count": 1,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:39+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:30+00:00",
    "seconds": 0.7
   },
   {
@@ -83,8 +83,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:40+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:31+00:00",
    "seconds": 0.3
   },
   {
@@ -97,9 +97,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:40+00:00",
-   "seconds": 2.3
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:31+00:00",
+   "seconds": 2.6
   },
   {
    "id": "joe",
@@ -111,9 +111,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:42+00:00",
-   "seconds": 0.8
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:34+00:00",
+   "seconds": 1.6
   },
   {
    "id": "smithsonian",
@@ -125,9 +125,9 @@
    "ok": true,
    "count": 1,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:21:43+00:00",
-   "seconds": 2.0
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:36+00:00",
+   "seconds": 2.4
   },
   {
    "id": "loc",
@@ -140,9 +140,9 @@
    "count": 0,
    "error": "JSONDecodeError: Unterminated string starting at: line 1 column 44261 (char 44260)",
    "last_success": "2026-11-17",
-   "checked": "2026-11-21T10:21:45+00:00",
+   "checked": "2026-11-22T10:21:38+00:00",
    "using_cached_from": null,
-   "seconds": 41.3
+   "seconds": 9.3
   },
   {
    "id": "nara",
@@ -154,8 +154,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:22:26+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:47+00:00",
    "seconds": 0.6
   },
   {
@@ -168,9 +168,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:22:27+00:00",
-   "seconds": 0.2
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:48+00:00",
+   "seconds": 0.3
   },
   {
    "id": "whha",
@@ -182,8 +182,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:22:27+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:48+00:00",
    "seconds": 0.8
   },
   {
@@ -196,8 +196,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-21",
-   "checked": "2026-11-21T10:22:28+00:00",
+   "last_success": "2026-11-22",
+   "checked": "2026-11-22T10:21:49+00:00",
    "seconds": 0.5
   }
  ]
