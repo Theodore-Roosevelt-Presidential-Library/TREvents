@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:22:45+00:00",
+ "generated": "2026-11-24T10:22:01+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -62,7 +62,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND"
   },
   {
@@ -112,7 +112,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Buffalo, NY"
   },
   {
@@ -167,7 +167,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -223,9 +223,9 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
-   "occurrences": 90
+   "occurrences": 91
   },
   {
    "source": "nps",
@@ -279,9 +279,9 @@
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "New York, NY",
-   "occurrences": 340
+   "occurrences": 344
   },
   {
    "source": "trpl",
@@ -335,7 +335,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND"
   },
   {
@@ -385,7 +385,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -440,7 +440,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 13
   },
@@ -496,7 +496,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 12
   },
@@ -547,7 +547,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Buffalo, NY"
   },
   {
@@ -599,7 +599,7 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Washington, DC"
   },
   {
@@ -654,7 +654,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -710,7 +710,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -766,7 +766,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -817,7 +817,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -872,7 +872,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "Medora, ND"
   },
   {
@@ -924,7 +924,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "region_label": "National"
   }
  ]
