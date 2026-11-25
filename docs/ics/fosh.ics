@@ -10,22 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/fosh.ics
 BEGIN:VEVENT
-UID:d98212d72e6232e6@trevents.labs.trlibrary.com
-DTSTAMP:20261124T102201Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Thanksgiving Day!
-DESCRIPTION:In person\n\nBuildings are closed.\n\nListed by Friends of Saga
- more Hill\n\nhttps://friendsofsagamorehill.org/events
-LOCATION:Sagamore Hill NHS\, 20 Sagamore Hill Road\, Oyster Bay\, NY\, Oyst
- er Bay\, NY
-URL:https://friendsofsagamorehill.org/events
-CATEGORIES:Friends of Sagamore Hill,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:160942b1b108910d@trevents.labs.trlibrary.com
-DTSTAMP:20261124T102201Z
+DTSTAMP:20261125T102254Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas Day!

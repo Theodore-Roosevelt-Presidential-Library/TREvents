@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24",
+ "fetched": "2026-11-25",
  "events": [
   {
    "source": "trsite",
@@ -45,6 +45,52 @@
    },
    "id": "b140a4faadf34a1f",
    "summary": "Each month, we (randomly) choose one state, and in-person visitors from that state will receive a special 10% discount on all bookstore purchases. November’s State-of-the-Month is . . . KANSAS!",
+   "source_name": "Theodore Roosevelt Inaugural Site"
+  },
+  {
+   "source": "trsite",
+   "source_event_id": "thanksgiving",
+   "title": "Thanksgiving Day",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "all_day": true,
+   "timezone": "America/New_York",
+   "url": "https://www.trsite.org/events/thanksgiving",
+   "description": "",
+   "image": "https://www.trsite.org/app/uploads/2025/11/Thanksgiving_WebsiteEvent.jpg",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Theodore Roosevelt Inaugural Site",
+    "address": "641 Delaware Ave",
+    "city": "Buffalo",
+    "region": "NY",
+    "postal_code": "14202",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Theodore Roosevelt Inaugural Site",
+   "kind": "closure",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "e38345312e54",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "date_text": "November 26, 12:00 am - 11:59 pm"
+   },
+   "id": "1405267f41d125f9",
+   "summary": "",
    "source_name": "Theodore Roosevelt Inaugural Site"
   },
   {

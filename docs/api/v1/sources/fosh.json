@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:22:01+00:00",
+ "generated": "2026-11-25T10:22:54+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -13,62 +13,12 @@
   "ok": true,
   "count": 2,
   "error": null,
-  "last_success": "2026-11-24",
-  "checked": "2026-11-24T10:21:21+00:00",
-  "seconds": 14.6
+  "last_success": "2026-11-25",
+  "checked": "2026-11-25T10:22:32+00:00",
+  "seconds": 11.2
  },
- "count": 2,
+ "count": 1,
  "events": [
-  {
-   "source": "fosh",
-   "source_event_id": "863443a2-573c-494d-ad70-e24bb8b4f860",
-   "title": "Thanksgiving Day!",
-   "start": "2026-11-26",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/New_York",
-   "url": "https://friendsofsagamorehill.org/events",
-   "description": "Buildings are closed.",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Sagamore Hill NHS",
-    "address": "20 Sagamore Hill Road, Oyster Bay, NY",
-    "city": "Oyster Bay",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Friends of Sagamore Hill",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "924a6f174973",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "time_text": "All Day"
-   },
-   "id": "d98212d72e6232e6",
-   "summary": "Buildings are closed.",
-   "source_name": "Friends of Sagamore Hill",
-   "also_listed": [],
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-24",
-   "region_label": "Oyster Bay, NY"
-  },
   {
    "source": "fosh",
    "source_event_id": "b6a5c7c3-e593-448f-aa5a-500213b5d712",
@@ -116,7 +66,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "region_label": "Oyster Bay, NY"
   }
  ]

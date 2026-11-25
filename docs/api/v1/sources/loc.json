@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:22:01+00:00",
+ "generated": "2026-11-25T10:22:54+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
@@ -12,11 +12,11 @@
   "region": "Washington, DC",
   "ok": false,
   "count": 0,
-  "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 42s, r",
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "last_success": "2026-11-23",
-  "checked": "2026-11-24T10:21:42+00:00",
+  "checked": "2026-11-25T10:22:50+00:00",
   "using_cached_from": null,
-  "seconds": 15.9
+  "seconds": 1.4
  },
  "count": 0,
  "events": []
