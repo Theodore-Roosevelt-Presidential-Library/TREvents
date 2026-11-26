@@ -10,10 +10,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/ics/free.ics
 BEGIN:VEVENT
-UID:df2f300f3f646e80@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
-DTSTART:20261125T220000Z
-DTEND:20261125T230000Z
+UID:0893f68faaf80d89@trevents.labs.trlibrary.com
+DTSTAMP:20261126T102411Z
+DTSTART:20261202T220000Z
+DTEND:20261202T230000Z
 SUMMARY:Theodore Roosevelt and American Empire Tour
 DESCRIPTION:In person · Free\n\nA 60-minute guided tour of how Theodore Ro
  osevelt’s beliefs about earning one’s place shaped America’s rise as

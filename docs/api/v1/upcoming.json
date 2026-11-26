@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-25T10:22:54+00:00",
+ "generated": "2026-11-26T10:24:11+00:00",
  "site": "https://trevents.labs.trlibrary.com",
  "fields": "https://trevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://trevents.labs.trlibrary.com/api/v1/sources.json",
- "count": 16,
+ "count": 15,
  "events": [
   {
    "source": "trpl",
@@ -62,7 +62,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND"
   },
   {
@@ -112,15 +112,15 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Buffalo, NY"
   },
   {
    "source": "nps",
    "source_event_id": "6EDF053C-C210-BD98-EB826C1AD4526045",
    "title": "House Tour",
-   "start": "2026-11-25T11:00:00-05:00",
-   "end": "2026-11-25T11:45:00-05:00",
+   "start": "2026-11-26T11:00:00-05:00",
+   "end": "2026-11-26T11:45:00-05:00",
    "all_day": false,
    "timezone": "America/New_York",
    "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=6EDF053C-C210-BD98-EB826C1AD4526045",
@@ -162,76 +162,21 @@
     "reservation_info": "Registration for parties of fewer than 10 people must be done in-person on the day of the desired tour. No phone or email reservations may be made in advance, except for parties of 10 or more people. Parties of 10 or more people are restricted to a designated 10:00-11:00 time slot only, and they must reserve at least 2 weeks in advance.",
     "contact": "thrb_info@nps.gov"
    },
-   "id": "4807c06b903a8489",
+   "id": "c50b7075d7fd4fd1",
    "summary": "Take a tour of 5 recreated period rooms and learn about Theodore Roosevelt's early life in New York City!",
    "source_name": "National Park Service (Roosevelt sites)",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "New York, NY",
    "occurrences": 348
   },
   {
    "source": "trpl",
-   "source_event_id": "america-beautiful-film-screening",
-   "title": "America the Beautiful Film Screening",
-   "start": "2026-11-25T14:00:00-07:00",
-   "end": "2026-11-25T15:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 5.0,
-   "price_max": 7.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "event",
-   "categories": [
-    "Special Event"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": false,
-   "series_id": "a665d78a144e",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Auditorium",
-    "setting": "Indoor"
-   },
-   "id": "b2e29ab57841cd36",
-   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
-   "region_label": "Medora, ND"
-  },
-  {
-   "source": "trpl",
    "source_event_id": "free-final-hour",
    "title": "Free Final Hour",
-   "start": "2026-11-25T15:00:00-07:00",
-   "end": "2026-11-25T16:00:00-07:00",
+   "start": "2026-11-26T15:00:00-07:00",
+   "end": "2026-11-26T16:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
@@ -273,69 +218,14 @@
     "room": "Accessibility",
     "setting": "Indoor"
    },
-   "id": "56dc7b2ee9e9854f",
+   "id": "233d582b43a2cca4",
    "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 91
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "theodore-roosevelt-and-american-empire-tour",
-   "title": "Theodore Roosevelt and American Empire Tour",
-   "start": "2026-11-25T15:00:00-07:00",
-   "end": "2026-11-25T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-and-american-empire-tour",
-   "description": "A 60-minute guided tour of how Theodore Roosevelt’s beliefs about earning one’s place shaped America’s rise as a world power, and who paid the price.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-11/roosevelt_and_the_canal.jpg.webp?h=32751ef5",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-and-american-empire-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": false,
-   "series_id": "1b43374f83cb",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "West Lobby",
-    "setting": "Indoor"
-   },
-   "id": "df2f300f3f646e80",
-   "summary": "A 60-minute guided tour of how Theodore Roosevelt’s beliefs about earning one’s place shaped America’s rise as a world power, and who paid the price.",
-   "source_name": "Theodore Roosevelt Presidential Library",
-   "also_listed": [],
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-25",
-   "region_label": "Medora, ND"
   },
   {
    "source": "trpl",
@@ -389,7 +279,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 13
   },
@@ -445,7 +335,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 12
   },
@@ -496,7 +386,7 @@
    "source_name": "Theodore Roosevelt Inaugural Site",
    "also_listed": [],
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Buffalo, NY"
   },
   {
@@ -548,8 +438,63 @@
    "source_name": "Smithsonian Institution",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Washington, DC"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "theodore-roosevelt-and-american-empire-tour",
+   "title": "Theodore Roosevelt and American Empire Tour",
+   "start": "2026-12-02T15:00:00-07:00",
+   "end": "2026-12-02T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-and-american-empire-tour",
+   "description": "A 60-minute guided tour of how Theodore Roosevelt’s beliefs about earning one’s place shaped America’s rise as a world power, and who paid the price.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-11/roosevelt_and_the_canal.jpg.webp?h=32751ef5",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-and-american-empire-tour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "tour",
+   "categories": [
+    "Specialty Tour"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": false,
+   "series_id": "1b43374f83cb",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "West Lobby",
+    "setting": "Indoor"
+   },
+   "id": "0893f68faaf80d89",
+   "summary": "A 60-minute guided tour of how Theodore Roosevelt’s beliefs about earning one’s place shaped America’s rise as a world power, and who paid the price.",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [],
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "region_label": "Medora, ND"
   },
   {
    "source": "trpl",
@@ -603,7 +548,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -659,7 +604,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 4
   },
@@ -715,7 +660,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND",
    "occurrences": 2
   },
@@ -766,7 +711,7 @@
    "source_name": "Friends of Sagamore Hill",
    "also_listed": [],
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Oyster Bay, NY"
   },
   {
@@ -821,7 +766,7 @@
    "source_name": "Theodore Roosevelt Presidential Library",
    "also_listed": [],
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "Medora, ND"
   },
   {
@@ -873,7 +818,7 @@
    "source_name": "Theodore Roosevelt Association",
    "also_listed": [],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "region_label": "National"
   }
  ]

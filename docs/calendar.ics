@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://trevents.labs.trlibrary.com/calendar.ics
 BEGIN:VEVENT
 UID:72ffbb8a6f6a8fea@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270111
 SUMMARY:In the Room: Sixty Years on the Front Lines of History
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b140a4faadf34a1f@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261101T150000Z
 DTEND:20261130T220000Z
 SUMMARY:November State-of-the-Month
@@ -49,47 +49,8 @@ CATEGORIES:Theodore Roosevelt Inaugural Site,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b2e29ab57841cd36@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
-DTSTART:20261125T210000Z
-DTEND:20261125T221500Z
-SUMMARY:America the Beautiful Film Screening
-DESCRIPTION:In person · Paid\n\nSoaring mountains\, open plains\, deserts\
- , rivers and wetlands\, and the conservation movement Theodore Roosevelt s
- et in motion to protect them. Narrated by Kelsey Grammer\, America the Bea
- utiful comes to the Library's…\n\nListed by Theodore Roosevelt President
- ial Library\n\nhttps://www.trlibrary.com/calendar/special-event/america-be
- autiful-film-screening
-LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
- \, ND
-URL:https://www.trlibrary.com/calendar/special-event/america-beautiful-film
- -screening
-GEO:46.9167713;-103.5486042
-CATEGORIES:Theodore Roosevelt Presidential Library,In person,Paid,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:df2f300f3f646e80@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
-DTSTART:20261125T220000Z
-DTEND:20261125T230000Z
-SUMMARY:Theodore Roosevelt and American Empire Tour
-DESCRIPTION:In person · Free\n\nA 60-minute guided tour of how Theodore Ro
- osevelt’s beliefs about earning one’s place shaped America’s rise as
-  a world power\, and who paid the price.\n\nListed by Theodore Roosevelt P
- residential Library\n\nhttps://www.trlibrary.com/calendar/specialty-tour/t
- heodore-roosevelt-and-american-empire-tour
-LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
- \, ND
-URL:https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-an
- d-american-empire-tour
-GEO:46.9167713;-103.5486042
-CATEGORIES:Theodore Roosevelt Presidential Library,In person,Free,Tour
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a3e589b9c6890e92@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Sleigh Shop Holiday Market
@@ -106,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6534120cd5a496b0@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261130T234500Z
 DTEND:20261201T011500Z
 SUMMARY:The Panama Canal: Power\, Politics\, and Ambition
@@ -122,8 +83,27 @@ CATEGORIES:Smithsonian Institution,Virtual,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0893f68faaf80d89@trevents.labs.trlibrary.com
+DTSTAMP:20261126T102411Z
+DTSTART:20261202T220000Z
+DTEND:20261202T230000Z
+SUMMARY:Theodore Roosevelt and American Empire Tour
+DESCRIPTION:In person · Free\n\nA 60-minute guided tour of how Theodore Ro
+ osevelt’s beliefs about earning one’s place shaped America’s rise as
+  a world power\, and who paid the price.\n\nListed by Theodore Roosevelt P
+ residential Library\n\nhttps://www.trlibrary.com/calendar/specialty-tour/t
+ heodore-roosevelt-and-american-empire-tour
+LOCATION:Theodore Roosevelt Presidential Library\, 3410 Chateau Rd\, Medora
+ \, ND
+URL:https://www.trlibrary.com/calendar/specialty-tour/theodore-roosevelt-an
+ d-american-empire-tour
+GEO:46.9167713;-103.5486042
+CATEGORIES:Theodore Roosevelt Presidential Library,In person,Free,Tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:39b8e81eaa0660d7@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261210T230000Z
 DTEND:20261211T030000Z
 SUMMARY:Elkhorn Evenings
@@ -141,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31ad179101be5590@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261217T230000Z
 DTEND:20261218T030000Z
 SUMMARY:Elkhorn Evenings
@@ -159,7 +139,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eaff044a89f80ff0@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261218T010000Z
 DTEND:20261218T020000Z
 SUMMARY:Visit with Santa Claus
@@ -177,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2d912fbcca474663@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20261219T200000Z
 DTEND:20261219T210000Z
 SUMMARY:Visit with Santa Claus
@@ -195,7 +175,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:160942b1b108910d@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas Day!
@@ -209,7 +189,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7d2ef1c9099aa8d@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20270124T150000Z
 DTEND:20270124T170000Z
 SUMMARY:Butchery Workshop
@@ -228,7 +208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2d12fe3d2a61c7@trevents.labs.trlibrary.com
-DTSTAMP:20261125T102254Z
+DTSTAMP:20261126T102411Z
 DTSTART:20270604T120000Z
 DTEND:20270614T210000Z
 SUMMARY:Theodore Roosevelt Association Strenuous Life Adventure Africa Expe
