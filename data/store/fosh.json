@@ -1,52 +1,6 @@
 {
- "fetched": "2026-11-26",
+ "fetched": "2026-11-27",
  "events": [
-  {
-   "source": "fosh",
-   "source_event_id": "863443a2-573c-494d-ad70-e24bb8b4f860",
-   "title": "Thanksgiving Day!",
-   "start": "2026-11-26",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/New_York",
-   "url": "https://friendsofsagamorehill.org/events",
-   "description": "Buildings are closed.",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Sagamore Hill NHS",
-    "address": "20 Sagamore Hill Road, Oyster Bay, NY",
-    "city": "Oyster Bay",
-    "region": "NY",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Friends of Sagamore Hill",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "924a6f174973",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "time_text": "All Day"
-   },
-   "id": "d98212d72e6232e6",
-   "summary": "Buildings are closed.",
-   "source_name": "Friends of Sagamore Hill"
-  },
   {
    "source": "fosh",
    "source_event_id": "b6a5c7c3-e593-448f-aa5a-500213b5d712",
